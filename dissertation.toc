@@ -1,0 +1,84 @@
+\contentsline {chapter}{Abstract}{iii}{section*.1}
+\contentsline {chapter}{List of figures}{ix}{section*.3}
+\contentsline {chapter}{Acknowledgments}{x}{section*.5}
+\contentsline {chapter}{\numberline {1}General introduction and background}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Drift-diffusion models}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Single neuron correlates of evidence accumulation for decision-making}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Sensory, motor, or both?}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Heterogeneity across neurons and variability across trials}{8}{section.1.4}
+\contentsline {section}{\numberline {1.5}Transient or persistent activity dynamics?}{10}{section.1.5}
+\contentsline {section}{\numberline {1.6}Neural trajectories and methods for analyzing high-dimensional neural data}{12}{section.1.6}
+\contentsline {section}{\numberline {1.7}Neural algorithms for memory and decision-making}{14}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Winner-take-all models}{14}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Reservoir computing}{15}{subsection.1.7.2}
+\contentsline {section}{\numberline {1.8}Methods for recording from multiple neurons simultaneously}{18}{section.1.8}
+\contentsline {section}{\numberline {1.9}A virtual reality paradigm for mouse behavior}{20}{section.1.9}
+\contentsline {chapter}{\numberline {2}Development of novel virtual-navigation decision-making behaviors}{22}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{22}{section.2.1}
+\contentsline {section}{\numberline {2.2}A virtual reality system for mouse behavior}{23}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Detailed description}{24}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Fixed association evidence accumulation task}{25}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Task description}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Training procedure}{26}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Behavioral characterization}{29}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Delayed-match-to-sample task}{33}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Task description}{33}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Training procedure}{36}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Behavioral characterization}{40}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Delayed-match-to-sample evidence accumulation task}{41}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Task description}{41}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Training procedure}{42}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Behavioral characterization}{44}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Behavioral analysis suite}{46}{section.2.6}
+\contentsline {section}{\numberline {2.7}Thoughts on task design}{48}{section.2.7}
+\contentsline {chapter}{\numberline {3}History-dependent variability in population dynamics during evidence accumulation in cortex}{51}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{51}{section.3.1}
+\contentsline {section}{\numberline {3.2}Results}{53}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Single neuron responses during evidence accumulation}{55}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Task-relevant information is distributed across neuronal populations}{56}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Clustering neuronal activity patterns across trials}{63}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Temporally structured trial-trial variability}{72}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}A memory of past events is maintained in PPC population activity over seconds and across trials}{80}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}A novel model for evidence accumulation based on history-dependent dynamics}{82}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Acknowledgements}{90}{section.3.3}
+\contentsline {section}{\numberline {3.4}Author contributions}{90}{section.3.4}
+\contentsline {chapter}{\numberline {4}Discussion and future experiments}{91}{chapter.4}
+\contentsline {section}{\numberline {4.1}History-dependent population dynamics}{91}{section.4.1}
+\contentsline {section}{\numberline {4.2}Importance of single-trial population analyses}{93}{section.4.2}
+\contentsline {section}{\numberline {4.3}Inconsistencies with winner-take-all models}{94}{section.4.3}
+\contentsline {section}{\numberline {4.4}A general rule for dynamics in the PPC}{96}{section.4.4}
+\contentsline {section}{\numberline {4.5}Developing neuronal implementations of history-dependent dynamics}{98}{section.4.5}
+\contentsline {section}{\numberline {4.6}Additional experimental tests}{99}{section.4.6}
+\contentsline {section}{\numberline {4.7}Recreating history-dependent dynamics \textit {in silico} with recurrent neural networks}{102}{section.4.7}
+\contentsline {chapter}{\numberline {5}Methods}{105}{chapter.5}
+\contentsline {section}{\numberline {5.1}Subjects}{105}{section.5.1}
+\contentsline {section}{\numberline {5.2}Imaging}{106}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Surgical procedure}{106}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Two-photon microscope design}{107}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Imaging data acquisition}{108}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Pre-processing of imaging data}{108}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Data analysis}{109}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}General analysis procedures}{109}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Choice selectivity for individual neurons}{113}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Classifiers (without clustering)}{113}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}General procedures}{113}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Two-class classifications}{114}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Multi-class classifications}{115}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Classifiers built by adding-in subsets of neurons}{116}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Classification of cue sequences}{116}{subsection.5.4.5}
+\contentsline {section}{\numberline {5.5}Analysis of activity in high-dimensional state space }{117}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Factor analysis}{117}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Relationship between pairwise trial-trial distances before and after cue presentation}{117}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Relationship between pairwise trial-trial distances and population activity vectors}{118}{subsection.5.5.3}
+\contentsline {section}{\numberline {5.6}Clustering methods}{119}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Pre-processing for clustering}{119}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Clustering via affinity propagation}{120}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Transition probabilities between clusters}{121}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}Clustering based on all time points together (rather than epoch-by-epoch clustering)}{122}{subsection.5.6.4}
+\contentsline {section}{\numberline {5.7}Classifiers based on activity in cluster-space}{122}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Classification of the cluster identity at past and future epochs based on the cluster identity at the current epoch}{122}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Classification of past and future cluster identities with simulated pseudo-populations }{124}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Classification of past and future cluster identities based on behavioral data}{124}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Classification of behavioral errors based on cluster identity}{125}{subsection.5.7.4}
+\contentsline {section}{\numberline {5.8}Analysis of the overlap of active neurons across clusters}{126}{section.5.8}
+\contentsline {chapter}{References}{140}{chapter*.38}

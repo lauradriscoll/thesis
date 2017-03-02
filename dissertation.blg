@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+The style file: apalike2.bst
+Database file #1: references.bib
+Warning--empty journal in Andersen:2009tm
+Warning--empty journal in Blatt:1990in
+Warning--empty journal in Britten:1992wx
+Warning--empty journal in Frey:2007tj
+Warning--empty journal in Marcos:2013byba
+Warning--empty journal in Renart:2014drba
+Warning--empty publisher in Sutton:2011wc
+Warning--empty institution in Theis:2014ey
+Warning--empty journal in Wang:2002kn
+You've used 131 entries,
+            2229 wiz_defined-function locations,
+            1317 strings with 28465 characters,
+and the built_in function-call counts, 58692 in all, are:
+= -- 5748
+> -- 2787
+< -- 65
++ -- 964
+- -- 964
+* -- 5601
+:= -- 10174
+add.period$ -- 389
+call.type$ -- 131
+change.case$ -- 1135
+chr.to.int$ -- 131
+cite$ -- 140
+duplicate$ -- 1822
+empty$ -- 3888
+format.name$ -- 1193
+if$ -- 11163
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 131
+newline$ -- 654
+num.names$ -- 393
+pop$ -- 853
+preamble$ -- 1
+purify$ -- 1137
+quote$ -- 0
+skip$ -- 1370
+stack$ -- 0
+substring$ -- 4765
+swap$ -- 123
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 782
+warning$ -- 9
+while$ -- 497
+width$ -- 0
+write$ -- 1681
+(There were 9 warnings)

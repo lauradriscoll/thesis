@@ -1,0 +1,38 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicod
+
+\documentclass{Dissertate}
+
+\begin{document}
+
+% the front matter
+\input{frontmatter/personalize}
+% \maketitle
+% \copyrightpage
+\frontmatter
+\setstretch{2}
+% \abstractpage
+% \tableofcontents
+% %\authorlist
+% \listoffigures
+% \dedicationpage
+% \acknowledgments
+
+% include each chapter...
+\include{chapters/chapter1}
+\include{chapters/chapter2}
+\include{chapters/chapter3}
+\include{chapters/chapter4}
+\include{chapters/chapter5}
+%\begin{appendices}
+%    \include{chapters/appendixA}
+%\end{appendices}
+
+% the back matter
+\setstretch{1}
+\clearpage
+\bibliography{references}
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{apalike2}
+
+\end{document}

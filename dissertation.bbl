@@ -1,0 +1,784 @@
+\begin{thebibliography}{}
+
+\bibitem[Akerboom et~al., 2012]{Akerboom:2012jz}
+Akerboom, J., Chen, T.~W., Wardill, T.~J., Tian, L., Marvin, J.~S., Mutlu, S.,
+  Calderon, N.~C., Esposti, F., Borghuis, B.~G., Sun, X.~R., Gordus, A., Orger,
+  M.~B., Portugues, R., Engert, F., Macklin, J.~J., Filosa, A., Aggarwal, A.,
+  Kerr, R.~A., Takagi, R., Kracun, S., Shigetomi, E., Khakh, B.~S., Baier, H.,
+  Lagnado, L., Wang, S. S.~H., Bargmann, C.~I., Kimmel, B.~E., Jayaraman, V.,
+  Svoboda, K., Kim, D.~S., Schreiter, E.~R., \& Looger, L.~L. (2012).
+\newblock {Optimization of a GCaMP Calcium Indicator for Neural Activity
+  Imaging}.
+\newblock {\em Journal of Neuroscience}, 32(40), 13819--13840.
+
+\bibitem[Andersen \& Cui, 2009]{Andersen:2009tm}
+Andersen, R.~A. \& Cui, H. (2009).
+\newblock {Intention, action planning, and decision making in parietal-frontal
+  circuits}.
+
+\bibitem[Aronov \& Tank, 2014]{Aronov:2014hn}
+Aronov, D. \& Tank, D.~W. (2014).
+\newblock {Engagement of Neural Circuits Underlying 2D Spatial Navigation in a
+  Rodent Virtual Reality System}.
+\newblock {\em Neuron}, 84(2), 442--456.
+
+\bibitem[Averbeck et~al., 2006]{Averbeck:2006ew}
+Averbeck, B.~B., Latham, P.~E., \& Pouget, A. (2006).
+\newblock {Neural correlations, population coding and computation.}
+\newblock {\em Nature Reviews Neuroscience}, 7(5), 358--366.
+
+\bibitem[Balan, 2006]{Balan:2006co}
+Balan, P.~F. (2006).
+\newblock {Integration of Exogenous Input into a Dynamic Salience Map Revealed
+  by Perturbing Attention}.
+\newblock {\em Journal of Neuroscience}, 26(36), 9239--9249.
+
+\bibitem[Barak et~al., 2013]{Barak:2013bg}
+Barak, O., Sussillo, D., Romo, R., Tsodyks, M., \& Abbott, L.~F. (2013).
+\newblock {From fixed points to chaos: Three models of delayed discrimination}.
+\newblock {\em Progress in Neurobiology}, 103, 214--222.
+
+\bibitem[Bellman, 1961]{Bellman:1961wy}
+Bellman, R.~E. (1961).
+\newblock {\em {Adaptive Control Processes}}.
+\newblock Rand Corporation.
+
+\bibitem[Bennur \& Gold, 2011]{Bennur:2011gx}
+Bennur, S. \& Gold, J.~I. (2011).
+\newblock {Distinct Representations of a Perceptual Decision and the Associated
+  Oculomotor Plan in the Monkey Lateral Intraparietal Area}.
+\newblock {\em Journal of Neuroscience}, 31(3), 913--921.
+
+\bibitem[Bernacchia et~al., 2011]{Bernacchia:2011bb}
+Bernacchia, A., Seo, H., Lee, D., \& Wang, X.-J. (2011).
+\newblock {A reservoir of time constants for memory traces in cortical
+  neurons.}
+\newblock {\em Nature Neuroscience}, 14(3), 366--372.
+
+\bibitem[Bisley, 2003]{Bisley:2003it}
+Bisley, J.~W. (2003).
+\newblock {Neuronal Activity in the Lateral Intraparietal Area and Spatial
+  Attention}.
+\newblock {\em Science}, 299(5603), 81--86.
+
+\bibitem[Bisley \& Goldberg, 2010]{Bisley:2010ci}
+Bisley, J.~W. \& Goldberg, M.~E. (2010).
+\newblock {Attention, Intention, and Priority in the Parietal Lobe}.
+\newblock {\em Annual Review of Neuroscience}, 33(1), 1--21.
+
+\bibitem[Blatt et~al., 1990]{Blatt:1990in}
+Blatt, G.~J., Andersen, R.~a., \& Stoner, G.~R. (1990).
+\newblock {Visual receptive field organization and cortico-cortical connections
+  of the lateral intraparietal area (area LIP) in the macaque}.
+\newblock 299(4), 421--445.
+
+\bibitem[Briggman, 2005]{Briggman:2005jd}
+Briggman, K.~L. (2005).
+\newblock {Optical Imaging of Neuronal Populations During Decision-Making}.
+\newblock {\em Science}, 307(5711), 896--901.
+
+\bibitem[Britten \& Shadlen, 1992]{Britten:1992wx}
+Britten, K.~H. \& Shadlen, M.~N. (1992).
+\newblock {The analysis of visual motion: a comparison of neuronal and
+  psychophysical performance}.
+\newblock 12(December), 4745--4765.
+
+\bibitem[Brunton et~al., 2013]{Brunton:2013kg}
+Brunton, B.~W., Botvinick, M.~M., \& Brody, C.~D. (2013).
+\newblock {Rats and Humans Can Optimally Accumulate Evidence for
+  Decision-Making}.
+\newblock {\em Science}, 340(6128), 95--98.
+
+\bibitem[Buneo \& Andersen, 2006]{Buneo:2006gu}
+Buneo, C.~a. \& Andersen, R.~a. (2006).
+\newblock {The posterior parietal cortex: Sensorimotor interface for the
+  planning and online control of visually guided movements}.
+\newblock {\em Neuropsychologia}, 44(13), 2594--2606.
+
+\bibitem[Buonomano \& Merzenich, 1995]{Buonomano:1995fm}
+Buonomano, D. \& Merzenich, M. (1995).
+\newblock {Temporal information transformed into a spatial code by a neural
+  network with realistic properties}.
+\newblock {\em Science}, 267(5200), 1028--1030.
+
+\bibitem[Buonomano \& Maass, 2009]{Buonomano:2009cw}
+Buonomano, D.~V. \& Maass, W. (2009).
+\newblock {State-dependent computations: spatiotemporal processing in cortical
+  networks}.
+\newblock {\em Nature Reviews Neuroscience}, 10(2), 113--125.
+
+\bibitem[Busse et~al., 2011]{Busse:2011ef}
+Busse, L., Ayaz, A., Dhruv, N.~T., Katzner, S., Saleem, A.~B., Sch{\"o}lvinck,
+  M.~L., Zaharia, A.~D., \& Carandini, M. (2011).
+\newblock {The detection of visual contrast in the behaving mouse.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 31(31), 11351--11361.
+
+\bibitem[Chang \& Lin, 2006]{Chang:2006bj}
+Chang, C.-C. \& Lin, C.-J. (2006).
+\newblock {Training v-Support Vector Regression: Theory and Algorithms}.
+\newblock {\em dx.doi.org.ezp-prod1.hul.harvard.edu}, 14(8), 1959--1977.
+
+\bibitem[Chang \& Lin, 2011]{Chang:2011ta}
+Chang, C.~C. \& Lin, C.~J. (2011).
+\newblock {LIBSVM: A library for support vector machines}.
+\newblock {\em ACM Transactions on Intelligent Systems and {\ldots}}.
+
+\bibitem[Chaudhuri et~al., 2015]{Chaudhuri:2015jb}
+Chaudhuri, R., Knoblauch, K., Gariel, M.-A., Kennedy, H., \& Wang, X.-J.
+  (2015).
+\newblock {A Large-Scale Circuit Mechanism for Hierarchical Dynamical
+  Processing in the Primate Cortex.}
+\newblock {\em Neuron}.
+
+\bibitem[Chen et~al., 2013]{Chen:2013fc}
+Chen, T.-W., Wardill, T.~J., Sun, Y., Pulver, S.~R., Renninger, S.~L., Baohan,
+  A., Schreiter, E.~R., Kerr, R.~a., Orger, M.~B., Jayaraman, V., Looger,
+  L.~L., Svoboda, K., \& Kim, D.~S. (2013).
+\newblock {Ultrasensitive fluorescent proteins for imaging neuronal activity}.
+\newblock {\em Nature}, 499(7458), 295--300.
+
+\bibitem[Churchland \& Ditterich, 2012]{Churchland:2012fb}
+Churchland, A.~K. \& Ditterich, J. (2012).
+\newblock {New advances in understanding decisions among multiple
+  alternatives}.
+\newblock {\em Current Opinion in Neurobiology}, 22(6), 920--926.
+
+\bibitem[Churchland et~al., 2011]{Churchland:2011hd}
+Churchland, A.~K., Kiani, R., Chaudhuri, R., Wang, X.-J., Pouget, A., \&
+  Shadlen, M.~N. (2011).
+\newblock {Variance as a Signature of Neural Computations during Decision
+  Making}.
+\newblock {\em Neuron}, 69(4), 818--831.
+
+\bibitem[Churchland et~al., 2008]{Churchland:2008ds}
+Churchland, A.~K., Kiani, R., \& Shadlen, M.~N. (2008).
+\newblock {Decision-making with multiple alternatives}.
+\newblock {\em Nature Neuroscience}, 11(6), 693--702.
+
+\bibitem[Churchland et~al., 2012]{Churchland:2012bq}
+Churchland, M.~M., Cunningham, J.~P., Kaufman, M.~T., Foster, J.~D.,
+  Nuyujukian, P., Ryu, S.~I., \& Shenoy, K.~V. (2012).
+\newblock {Neural population dynamics during reaching}.
+\newblock {\em Nature}.
+
+\bibitem[Churchland et~al., 2010]{Churchland:2010he}
+Churchland, M.~M., Yu, B.~M., Cunningham, J.~P., Sugrue, L.~P., Cohen, M.~R.,
+  Corrado, G.~S., Newsome, W.~T., Clark, A.~M., Hosseini, P., Scott, B.~B.,
+  Bradley, D.~C., Smith, M.~A., Kohn, A., Movshon, J.~A., Armstrong, K.~M.,
+  Moore, T., Chang, S.~W., Snyder, L.~H., Lisberger, S.~G., Priebe, N.~J.,
+  Finn, I.~M., Ferster, D., Ryu, S.~I., Santhanam, G., Sahani, M., \& Shenoy,
+  K.~V. (2010).
+\newblock {Stimulus onset quenches neural variability: a widespread cortical
+  phenomenon}.
+\newblock {\em Nature Neuroscience}, 13(3), 369--378.
+
+\bibitem[Cohen \& Kohn, 2011]{Cohen:2011eh}
+Cohen, M.~R. \& Kohn, A. (2011).
+\newblock {Measuring and interpreting neuronal correlations.}
+\newblock {\em Nature Neuroscience}, 14(7), 811--819.
+
+\bibitem[Cohen \& Maunsell, 2009]{Cohen:2009hw}
+Cohen, M.~R. \& Maunsell, J. H.~R. (2009).
+\newblock {Attention improves performance primarily by reducing interneuronal
+  correlations}.
+\newblock {\em Nature Neuroscience}, 12(12), 1594--1600.
+
+\bibitem[Crowe et~al., 2010]{Crowe:2010du}
+Crowe, D.~A., Averbeck, B.~B., \& Chafee, M.~V. (2010).
+\newblock {Rapid Sequences of Population Activity Patterns Dynamically Encode
+  Task-Critical Spatial Information in Parietal Cortex}.
+\newblock {\em Journal of Neuroscience}, 30(35), 11640--11653.
+
+\bibitem[Cui \& Andersen, 2007]{Cui:2007dm}
+Cui, H. \& Andersen, R.~a. (2007).
+\newblock {Posterior Parietal Cortex Encodes Autonomously Selected Motor
+  Plans}.
+\newblock {\em Neuron}, 56(3), 552--559.
+
+\bibitem[Curto et~al., 2009]{Curto:2009ga}
+Curto, C., Sakata, S., Marguet, S., Itskov, V., \& Harris, K.~D. (2009).
+\newblock {A simple model of cortical dynamics explains variability and state
+  dependence of sensory responses in urethane-anesthetized auditory cortex.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 29(34), 10600--10612.
+
+\bibitem[Davidson et~al., 2009]{Davidson:2009kv}
+Davidson, T.~J., Kloosterman, F., \& Wilson, M.~a. (2009).
+\newblock {Hippocampal Replay of Extended Experience}.
+\newblock {\em Neuron}, 63(4), 497--507.
+
+\bibitem[Dombeck et~al., 2010]{Dombeck:2010jr}
+Dombeck, D.~a., Harvey, C.~D., Tian, L., Looger, L.~L., \& Tank, D.~W. (2010).
+\newblock {Functional imaging of hippocampal place cells at cellular resolution
+  during virtual navigation}.
+\newblock {\em Nature Neuroscience}, 13(11), 1433--1440.
+
+\bibitem[Domnisoru et~al., 2013]{Domnisoru:2013jp}
+Domnisoru, C., Kinkhabwala, A.~a., \& Tank, D.~W. (2013).
+\newblock {Membrane potential dynamics of grid cells.}
+\newblock {\em Nature}, 495(7440), 199--204.
+
+\bibitem[Donahue \& Lee, 2015]{Donahue:2015fi}
+Donahue, C.~H. \& Lee, D. (2015).
+\newblock {Dynamic routing of task-relevant signals for decision making in
+  dorsolateral prefrontal cortex}.
+\newblock {\em Nature Neuroscience}, 18(2), 295--301.
+
+\bibitem[Drugowitsch et~al., 2012]{Drugowitsch:2012ep}
+Drugowitsch, J., Moreno-Bote, R., Churchland, A.~K., Shadlen, M.~N., \& Pouget,
+  A. (2012).
+\newblock {The Cost of Accumulating Evidence in Perceptual Decision Making}.
+\newblock {\em Journal of Neuroscience}, 32(11), 3612--3628.
+
+\bibitem[Fitzgerald et~al., 2011]{Fitzgerald:2011fu}
+Fitzgerald, J.~K., Freedman, D.~J., \& Assad, J.~a. (2011).
+\newblock {Generalized associative representations in parietal cortex}.
+\newblock {\em Nature Neuroscience}, 14(8), 1075--1079.
+
+\bibitem[Freedman \& Assad, 2006]{Freedman:2006hd}
+Freedman, D.~J. \& Assad, J.~a. (2006).
+\newblock {Experience-dependent representation of visual categories in parietal
+  cortex}.
+\newblock {\em Nature}, 443(7107), 85--88.
+
+\bibitem[Freedman \& Assad, 2011]{Freedman:2011hq}
+Freedman, D.~J. \& Assad, J.~a. (2011).
+\newblock {A proposed common neural mechanism for categorization and perceptual
+  decisions}.
+\newblock {\em Nature Neuroscience}, 14(2), 143--146.
+
+\bibitem[Frey \& Dueck, 2007]{Frey:2007tj}
+Frey, B.~J. \& Dueck, D. (2007).
+\newblock {Clustering by Passing Messages Between Data Points}.
+
+\bibitem[Fujisawa et~al., 2008]{Fujisawa:2008dm}
+Fujisawa, S., Amarasingham, A., Harrison, M.~T., \& Buzs{\'a}ki, G. (2008).
+\newblock {Behavior-dependent short-term assembly dynamics in the medial
+  prefrontal cortex}.
+\newblock {\em Nature Neuroscience}, 11(7), 823--833.
+
+\bibitem[Gold \& Shadlen, 2000]{Gold:2000hp}
+Gold, J.~I. \& Shadlen, M.~N. (2000).
+\newblock {Representation of a perceptual decision in developing oculomotor
+  commands}.
+\newblock {\em Nature}, 404(6776), 390--394.
+
+\bibitem[Gold \& Shadlen, 2007]{Gold:2007fo}
+Gold, J.~I. \& Shadlen, M.~N. (2007).
+\newblock {The Neural Basis of Decision Making}.
+\newblock {\em Annual Review of Neuroscience}, 30(1), 535--574.
+
+\bibitem[Goldman, 2009]{Goldman:2009ko}
+Goldman, M.~S. (2009).
+\newblock {Memory without Feedback in a Neural Network}.
+\newblock {\em Neuron}, 61(4), 621--634.
+
+\bibitem[Greenberg \& Kerr, 2009]{Greenberg:2009gn}
+Greenberg, D.~S. \& Kerr, J. N.~D. (2009).
+\newblock {Automated correction of fast motion artifacts for two-photon imaging
+  of awake animals.}
+\newblock {\em Journal of Neuroscience Methods}, 176(1), 1--15.
+
+\bibitem[G{\"u}tig \& Sompolinsky, 2006]{Gutig:2006cz}
+G{\"u}tig, R. \& Sompolinsky, H. (2006).
+\newblock {The tempotron: a neuron that learns spike timing-based decisions.}
+\newblock {\em Nature Neuroscience}, 9(3), 420--428.
+
+\bibitem[Hahnloser et~al., 2002]{Hahnloser:2002hj}
+Hahnloser, R. H.~R., Kozhevnikov, A.~A., \& Fee, M.~S. (2002).
+\newblock {An ultra-sparse code underlies the generation of neural sequences in
+  a songbird.}
+\newblock {\em Nature}, 419(6902), 65--70.
+
+\bibitem[Hanks et~al., 2015]{Hanks:2015fy}
+Hanks, T.~D., Brunton, B.~W., Kopec, C.~D., Duan, C.~a., Erlich, J.~C., \&
+  Brody, C.~D. (2015).
+\newblock {Distinct relationships of parietal and prefrontal cortices to
+  evidence accumulation}.
+\newblock {\em Nature}, 520(7546), 220--223.
+
+\bibitem[Hanks et~al., 2006]{Hanks:2006jt}
+Hanks, T.~D., Ditterich, J., \& Shadlen, M.~N. (2006).
+\newblock {Microstimulation of macaque area LIP affects decision-making in a
+  motion discrimination task}.
+\newblock {\em Nature Neuroscience}, 9(5), 682--689.
+
+\bibitem[Harris \& Thiele, 2011]{Harris:2011gw}
+Harris, K.~D. \& Thiele, A. (2011).
+\newblock {Cortical state and attention}.
+\newblock {\em Nature Reviews Neuroscience}, 12(9), 509--523.
+
+\bibitem[Harvey et~al., 2012]{Harvey:2012du}
+Harvey, C.~D., Coen, P., \& Tank, D.~W. (2012).
+\newblock {Choice-specific sequences in parietal cortex during a
+  virtual-navigation decision task}.
+\newblock {\em Nature}, 484(7392), 62--68.
+
+\bibitem[Harvey et~al., 2009]{Harvey:2009ci}
+Harvey, C.~D., Collman, F., Dombeck, D.~a., \& Tank, D.~W. (2009).
+\newblock {Intracellular dynamics of hippocampal place cells during virtual
+  navigation}.
+\newblock {\em Nature}, 461(7266), 941--946.
+
+\bibitem[Hoerzer et~al., 2014]{Hoerzer:2014cz}
+Hoerzer, G.~M., Legenstein, R., \& Maass, W. (2014).
+\newblock {Emergence of Complex Computational Structures From Chaotic Neural
+  Networks Through Reward-Modulated Hebbian Learning}.
+\newblock {\em Cerebral Cortex}, 24(3), 677--690.
+
+\bibitem[Horwitz \& Newsome, 1999]{Horwitz:1999ws}
+Horwitz, G.~D. \& Newsome, W.~T. (1999).
+\newblock {Separate signals for target selection and movement specification in
+  the superior colliculus.}
+\newblock {\em Science}, 284(5417), 1158--1161.
+
+\bibitem[Huber et~al., 2012]{Huber:2012fw}
+Huber, D., Gutnisky, D.~a., Peron, S., O'Connor, D.~H., Wiegert, J.~S., Tian,
+  L., Oertner, T.~G., Looger, L.~L., \& Svoboda, K. (2012).
+\newblock {Multiple dynamic representations in the motor cortex during
+  sensorimotor learning}.
+\newblock {\em Nature}, 484(7395), 473--478.
+
+\bibitem[Ipata et~al., 2006]{Ipata:2006gg}
+Ipata, A.~E., Gee, A.~L., Gottlieb, J., Bisley, J.~W., \& Goldberg, M.~E.
+  (2006).
+\newblock {LIP responses to a popout stimulus are reduced if it is overtly
+  ignored}.
+\newblock {\em Nature Neuroscience}, 9(8), 1071--1076.
+
+\bibitem[Jaeger \& Haas, 2004]{Jaeger:2004hj}
+Jaeger, H. \& Haas, H. (2004).
+\newblock {Harnessing nonlinearity: predicting chaotic systems and saving
+  energy in wireless communication.}
+\newblock {\em Science}, 304(5667), 78--80.
+
+\bibitem[Jeanne et~al., 2013]{Jeanne:2013bf}
+Jeanne, J.~M., Sharpee, T.~O., \& Gentner, T.~Q. (2013).
+\newblock {Associative Learning Enhances Population Coding by Inverting
+  Interneuronal Correlation Patterns}.
+\newblock {\em Neuron}, 78(2), 352--363.
+
+\bibitem[Jun et~al., 2010]{Jun:2010kj}
+Jun, J.~K., Miller, P., Hernandez, A., Zainos, A., Lemus, L., Brody, C.~D., \&
+  Romo, R. (2010).
+\newblock {Heterogenous Population Coding of a Short-Term Memory and Decision
+  Task}.
+\newblock {\em Journal of Neuroscience}, 30(3), 916--929.
+
+\bibitem[Kepecs et~al., 2008]{Kepecs:2008fp}
+Kepecs, A., Uchida, N., Zariwala, H.~A., \& Mainen, Z.~F. (2008).
+\newblock {Neural correlates, computation and behavioural impact of decision
+  confidence}.
+\newblock {\em Nature}, 455(7210), 227--231.
+
+\bibitem[Kira et~al., 2015]{Kira:2015cl}
+Kira, S., Yang, T., \& Shadlen, M.~N. (2015).
+\newblock {A neural implementation of Wald's sequential probability ratio
+  test.}
+\newblock {\em Neuron}, 85(4), 861--873.
+
+\bibitem[Klampfl et~al., 2012]{Klampfl:2012cm}
+Klampfl, S., David, S.~V., Yin, P., Shamma, S.~A., \& Maass, W. (2012).
+\newblock {A quantitative analysis of information about past and present
+  stimuli encoded by spikes of A1 neurons}.
+\newblock {\em Journal of Neurophysiology}, 108(5), 1366--1380.
+
+\bibitem[Klampfl \& Maass, 2013]{Klampfl:2013gq}
+Klampfl, S. \& Maass, W. (2013).
+\newblock {Emergence of Dynamic Memory Traces in Cortical Microcircuit Models
+  through STDP}.
+\newblock {\em Journal of Neuroscience}, 33(28), 11515--11529.
+
+\bibitem[Kusunoki et~al., 2000]{Kusunoki:2000gv}
+Kusunoki, M., Gottlieb, J., \& Goldberg, M.~E. (2000).
+\newblock {The lateral intraparietal area as a salience map: the representation
+  of abrupt onset, stimulus motion, and task relevance}.
+\newblock {\em Vision Research}, 40(10-12), 1459--1468.
+
+\bibitem[LeCun et~al., 2015]{LeCun:2015dt}
+LeCun, Y., Bengio, Y., \& Hinton, G. (2015).
+\newblock {Deep learning}.
+\newblock {\em Nature}, 521(7553), 436--444.
+
+\bibitem[Legenstein \& Maass, 2014]{Legenstein:2014gp}
+Legenstein, R. \& Maass, W. (2014).
+\newblock {Ensembles of Spiking Neurons with Noise Support Optimal
+  Probabilistic Inference in a Dynamically Changing Environment}.
+\newblock {\em PLoS Computational Biology}, 10(10), e1003859.
+
+\bibitem[Legenstein et~al., 2008]{Legenstein:2008gx}
+Legenstein, R., Pecevski, D., \& Maass, W. (2008).
+\newblock {A learning theory for reward-modulated spike-timing-dependent
+  plasticity with application to biofeedback.}
+\newblock {\em PLoS Computational Biology}, 4(10), e1000180.
+
+\bibitem[Li et~al., 2015]{Li:2015cd}
+Li, N., Chen, T.-W., Guo, Z.~V., Gerfen, C.~R., \& Svoboda, K. (2015).
+\newblock {A motor cortex circuit for motor planning and movement}.
+\newblock {\em Nature}, 519(7541), 51--56.
+
+\bibitem[Looger \& Griesbeck, 2012]{Looger:2012dq}
+Looger, L.~L. \& Griesbeck, O. (2012).
+\newblock {Genetically encoded neural activity indicators}.
+\newblock {\em Current Opinion in Neurobiology}, 22(1), 18--23.
+
+\bibitem[Maass et~al., 2002]{Maass:2002kf}
+Maass, W., Natschl{\"a}ger, T., \& Markram, H. (2002).
+\newblock {Real-Time Computing Without Stable States: A New Framework for
+  Neural Computation Based on Perturbations}.
+\newblock {\em Neural Computation}, 14(11), 2531--2560.
+
+\bibitem[Machens, 2005]{Machens:2005en}
+Machens, C.~K. (2005).
+\newblock {Flexible Control of Mutual Inhibition: A Neural Model of
+  Two-Interval Discrimination}.
+\newblock {\em Science}, 307(5712), 1121--1124.
+
+\bibitem[Maimon \& Assad, 2009]{Maimon:2009hg}
+Maimon, G. \& Assad, J.~a. (2009).
+\newblock {Beyond Poisson: increased spike-time regularity across primate
+  parietal cortex.}
+\newblock {\em Neuron}, 62(3), 426--440.
+
+\bibitem[Mante et~al., 2013]{Mante:2013ie}
+Mante, V., Sussillo, D., Shenoy, K.~V., \& Newsome, W.~T. (2013).
+\newblock {Context-dependent computation by recurrent dynamics in prefrontal
+  cortex}.
+\newblock {\em Nature}, 503(7474), 78--84.
+
+\bibitem[Marcos et~al., 2013]{Marcos:2013byba}
+Marcos, E., Pani, P., Brunamonti, E., Deco, G., Ferraina, S., \& Verschure, P.
+  (2013).
+\newblock {Neural Variability in Premotor Cortex Is Modulated by Trial History
+  and Predicts Behavioral Performance}.
+\newblock 78(2), 249--255.
+
+\bibitem[Mazor \& Laurent, 2005]{Mazor:2005jp}
+Mazor, O. \& Laurent, G. (2005).
+\newblock {Transient Dynamics versus Fixed Points in Odor Representations by
+  Locust Antennal Lobe Projection Neurons}.
+\newblock {\em Neuron}, 48(4), 661--673.
+
+\bibitem[Mazurek, 2003]{Mazurek:2003cm}
+Mazurek, M.~E. (2003).
+\newblock {A Role for Neural Integrators in Perceptual Decision Making}.
+\newblock {\em Cerebral cortex (New York, N.Y. : 1991)}, 13(11), 1257--1269.
+
+\bibitem[Meister et~al., 2013]{Meister:2013ca}
+Meister, M. L.~R., Hennig, J.~A., \& Huk, A.~C. (2013).
+\newblock {Signal Multiplexing and Single-Neuron Computations in Lateral
+  Intraparietal Area During Decision-Making}.
+\newblock {\em Journal of Neuroscience}, 33(6), 2254--2267.
+
+\bibitem[Miller \& Wilson, 2008]{Miller:2008be}
+Miller, E.~K. \& Wilson, M.~a. (2008).
+\newblock {All My Circuits: Using Multiple Electrodes to Understand Functioning
+  Neural Networks}.
+\newblock {\em Neuron}, 60(3), 483--488.
+
+\bibitem[Murakami et~al., 2014]{Murakami:2014jl}
+Murakami, M., Vicente, M.~I., Costa, G.~M., \& Mainen, Z.~F. (2014).
+\newblock {Neural antecedents of self-initiated actions in secondary motor
+  cortex.}
+\newblock {\em Nature Neuroscience}, 17(11), 1574--1582.
+
+\bibitem[Murphy, 2012]{Murphy:2012uq}
+Murphy, K.~P. (2012).
+\newblock {Machine learning: a probabilistic perspective}.
+
+\bibitem[Murray et~al., 2014]{Murray:2014ee}
+Murray, J.~D., Bernacchia, A., Freedman, D.~J., Romo, R., Wallis, J.~D., Cai,
+  X., Padoa-Schioppa, C., Pasternak, T., Seo, H., Lee, D., \& Wang, X.-J.
+  (2014).
+\newblock {A hierarchy of intrinsic timescales across primate cortex.}
+\newblock {\em Nature Neuroscience}, 17(12), 1661--1663.
+
+\bibitem[Natschl{\"a}ger \& Maass, 2005]{Natschlager:2005ju}
+Natschl{\"a}ger, T. \& Maass, W. (2005).
+\newblock {Dynamics of information and emergent computation in generic neural
+  microcircuit models}.
+\newblock {\em Neural Networks}, 18(10), 1301--1308.
+
+\bibitem[Nikoli{\'c} et~al., 2009]{Nikolic:2009cf}
+Nikoli{\'c}, D., H{\"a}usler, S., Singer, W., \& Maass, W. (2009).
+\newblock {Distributed Fading Memory for Stimulus Properties in the Primary
+  Visual Cortex}.
+\newblock {\em PLoS Biology}, 7(12), e1000260.
+
+\bibitem[Niwa \& Ditterich, 2008]{Niwa:2008in}
+Niwa, M. \& Ditterich, J. (2008).
+\newblock {Perceptual decisions between multiple directions of visual motion.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 28(17), 4435--4445.
+
+\bibitem[Park et~al., 2014]{Park:2014co}
+Park, I.~M., Meister, M. L.~R., Huk, A.~C., \& Pillow, J.~W. (2014).
+\newblock {Encoding and decoding in parietal cortex during sensorimotor
+  decision-making}.
+\newblock {\em Nature Neuroscience}, 17(10), 1395--1403.
+
+\bibitem[Pastalkova et~al., 2008]{Pastalkova:2008hz}
+Pastalkova, E., Itskov, V., Amarasingham, A., \& Buzsaki, G. (2008).
+\newblock {Internally Generated Cell Assembly Sequences in the Rat
+  Hippocampus}.
+\newblock {\em Science}, 321(5894), 1322--1327.
+
+\bibitem[Petersen \& Diamond, 2000]{Petersen:2000tw}
+Petersen, R.~S. \& Diamond, M.~E. (2000).
+\newblock {Spatial-temporal distribution of whisker-evoked activity in rat
+  somatosensory cortex and the coding of stimulus location.}
+\newblock {\em Journal of Neuroscience}, 20(16), 6135--6143.
+
+\bibitem[Pnevmatikakis et~al., 2016]{Pnevmatikakis:2016gr}
+Pnevmatikakis, E.~A., Soudry, D., Gao, Y., Machado, T.~A., Merel, J., Pfau, D.,
+  Reardon, T., Mu, Y., Lacefield, C., Yang, W., Ahrens, M., Bruno, R., Jessell,
+  T.~M., Peterka, D.~S., Yuste, R., \& Paninski, L. (2016).
+\newblock {Simultaneous Denoising, Deconvolution, and Demixing of Calcium
+  Imaging Data.}
+\newblock {\em Neuron}, 89(2), 285--299.
+
+\bibitem[Pologruto et~al., 2003]{Pologruto:2003bq}
+Pologruto, T.~a., Sabatini, B.~L., \& Svoboda, K. (2003).
+\newblock {ScanImage: flexible software for operating laser scanning
+  microscopes.}
+\newblock {\em Biomedical engineering online}, 2(1), 13.
+
+\bibitem[Quian~Quiroga, 2006]{QuianQuiroga:2006iz}
+Quian~Quiroga, R. (2006).
+\newblock {Movement Intention Is Better Predicted than Attention in the
+  Posterior Parietal Cortex}.
+\newblock {\em Journal of Neuroscience}, 26(13), 3615--3620.
+
+\bibitem[Rajan et~al., 2016]{Rajan:2016cp}
+Rajan, K., Harvey, C.~D., \& Tank, D.~W. (2016).
+\newblock {Recurrent Network Models of Sequence Generation and Memory.}
+\newblock {\em Neuron}.
+
+\bibitem[Raposo et~al., 2014]{Raposo:2014df}
+Raposo, D., Kaufman, M.~T., \& Churchland, A.~K. (2014).
+\newblock {A category-free neural population supports evolving demands during
+  decision-making}.
+\newblock {\em Nature Neuroscience}, 17(12), 1784--1792.
+
+\bibitem[Raposo et~al., 2012]{Raposo:2012ju}
+Raposo, D., Sheppard, J.~P., Schrater, P.~R., \& Churchland, A.~K. (2012).
+\newblock {Multisensory Decision-Making in Rats and Humans}.
+\newblock {\em Journal of Neuroscience}, 32(11), 3726--3735.
+
+\bibitem[Ratcliff \& Smith, 2004]{Ratcliff:2004ch}
+Ratcliff, R. \& Smith, P.~L. (2004).
+\newblock {A Comparison of Sequential Sampling Models for Two-Choice Reaction
+  Time.}
+\newblock {\em Psychological Review}, 111(2), 333--367.
+
+\bibitem[Renart \& Machens, 2014]{Renart:2014drba}
+Renart, A. \& Machens, C.~K. (2014).
+\newblock {Variability in neural activity and behavior}.
+\newblock 25, 211--220.
+
+\bibitem[Rigotti et~al., 2013]{Rigotti:2013bo}
+Rigotti, M., Barak, O., Warden, M.~R., Wang, X.-J., Daw, N.~D., Miller, E.~K.,
+  \& Fusi, S. (2013).
+\newblock {The importance of mixed selectivity in complex cognitive tasks}.
+\newblock {\em Nature}, 497(7451), 585--590.
+
+\bibitem[Rinberg et~al., 2006]{Rinberg:2006cx}
+Rinberg, D., Koulakov, A., \& Gelperin, A. (2006).
+\newblock {Speed-Accuracy Tradeoff in Olfaction}.
+\newblock {\em Neuron}, 51(3), 351--358.
+
+\bibitem[Roitman \& Shadlen, 2002]{Roitman:2002wr}
+Roitman, J.~D. \& Shadlen, M.~N. (2002).
+\newblock {Response of neurons in the lateral intraparietal area during a
+  combined visual discrimination reaction time task.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 22(21), 9475--9489.
+
+\bibitem[Romo et~al., 2003]{Romo:2003kd}
+Romo, R., Hern{\'a}ndez, A., Zainos, A., \& Salinas, E. (2003).
+\newblock {Correlated Neuronal Discharges that Increase Coding Efficiency
+  during Perceptual Discrimination}.
+\newblock {\em Neuron}, 38(4), 649--657.
+
+\bibitem[Rosenblatt, 1958]{Rosenblatt:1958vca}
+Rosenblatt, F. (1958).
+\newblock {The perceptron: a probabilistic model for information storage and
+  organization in the brain.}
+\newblock {\em Psychological Review}, 65(6), 386--408.
+
+\bibitem[Safaai et~al., 2015]{Safaai:2015jr}
+Safaai, H., Neves, R., Eschenko, O., Logothetis, N.~K., \& Panzeri, S. (2015).
+\newblock {Modeling the effect of locus coeruleus firing on cortical state
+  dynamics and single-trial sensory processing}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 112(41),
+  12834--12839.
+
+\bibitem[Safaai et~al., 2013]{Safaai:2013jq}
+Safaai, H., von Heimendahl, M., Sorando, J.~M., Diamond, M.~E., \& Maravall, M.
+  (2013).
+\newblock {Coordinated Population Activity Underlying Texture Discrimination in
+  Rat Barrel Cortex}.
+\newblock {\em Journal of Neuroscience}, 33(13), 5843--5855.
+
+\bibitem[Scott et~al., 2015]{Scott:2015eh}
+Scott, B.~B., Constantinople, C.~M., Erlich, J.~C., Tank, D.~W., \& Brody,
+  C.~D. (2015).
+\newblock {Sources of noise during accumulation of evidence in unrestrained and
+  voluntarily head-restrained rats.}
+\newblock {\em eLife}, 4, 494.
+
+\bibitem[Seo et~al., 2007]{Seo:2007jp}
+Seo, H., Barraclough, D.~J., \& Lee, D. (2007).
+\newblock {Dynamic signals related to choices and outcomes in the dorsolateral
+  prefrontal cortex.}
+\newblock {\em Cerebral Cortex}, 17 Suppl 1(suppl 1), i110--7.
+
+\bibitem[Seo et~al., 2009]{Seo:2009jl}
+Seo, H., Barraclough, D.~J., \& Lee, D. (2009).
+\newblock {Lateral intraparietal cortex and reinforcement learning during a
+  mixed-strategy game.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 29(22), 7278--7289.
+
+\bibitem[Seo \& Lee, 2007]{Seo:2007jv}
+Seo, H. \& Lee, D. (2007).
+\newblock {Temporal filtering of reward signals in the dorsal anterior
+  cingulate cortex during a mixed-strategy game.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 27(31), 8366--8377.
+
+\bibitem[Shadlen \& Kiani, 2013]{Shadlen:2013jp}
+Shadlen, M.~N. \& Kiani, R. (2013).
+\newblock {Decision Making as a Window on Cognition}.
+\newblock {\em Neuron}, 80(3), 791--806.
+
+\bibitem[Shadlen \& Newsome, 1996]{Shadlen:1996ga}
+Shadlen, M.~N. \& Newsome, W.~T. (1996).
+\newblock {Motion perception: seeing and deciding.}
+\newblock {\em Proceedings of the National Academy of Sciences}, 93(2),
+  628--633.
+
+\bibitem[Shadlen \& Newsome, 1998]{Shadlen:1998ta}
+Shadlen, M.~N. \& Newsome, W.~T. (1998).
+\newblock {The variable discharge of cortical neurons: implications for
+  connectivity, computation, and information coding.}
+\newblock {\em Journal of Neuroscience}, 18(10), 3870--3896.
+
+\bibitem[Shi \& Malik, 2000]{Shi:2000gf}
+Shi, J. \& Malik, J. (2000).
+\newblock {Normalized cuts and image segmentation}.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 22(8), 888--905.
+
+\bibitem[Smith, 2000]{Smith:2000ct}
+Smith, P.~L. (2000).
+\newblock {Stochastic Dynamic Models of Response Time and Accuracy: A
+  Foundational Primer}.
+\newblock {\em Journal of Mathematical Psychology}, 44(3), 408--463.
+
+\bibitem[Smola \& Vapnik, 1997]{Smola:1997uw}
+Smola, A. \& Vapnik, V. (1997).
+\newblock {Support vector regression machines}.
+\newblock {\em Advances in neural information processing {\ldots}}.
+
+\bibitem[Sugrue et~al., 2004]{Sugrue:2004ex}
+Sugrue, L.~P., Corrado, G.~S., \& Newsome, W.~T. (2004).
+\newblock {Matching behavior and the representation of value in the parietal
+  cortex.}
+\newblock {\em Science}, 304(5678), 1782--1787.
+
+\bibitem[Sussillo, 2014]{Sussillo:2014dy}
+Sussillo, D. (2014).
+\newblock {Neural circuits as computational dynamical systems}.
+\newblock {\em Current Opinion in Neurobiology}, 25, 156--163.
+
+\bibitem[Sussillo \& Abbott, 2009]{Sussillo:2009gh}
+Sussillo, D. \& Abbott, L.~F. (2009).
+\newblock {Generating Coherent Patterns of Activity from Chaotic Neural
+  Networks}.
+\newblock {\em Neuron}, 63(4), 544--557.
+
+\bibitem[Sutton \& Barto, 1998]{Sutton:2011wc}
+Sutton, R.~S. \& Barto, A.~G. (1998).
+\newblock {\em {Reinforcement learning: An introduction}}.
+
+\bibitem[Theis et~al., 2014]{Theis:2014ey}
+Theis, L., Berens, P., Froudarakis, E., Reimer, J., Roman-Roson, M., Baden, T.,
+  Euler, T., Tolias, A.~S., \& Bethge, M. (2014).
+\newblock {\em {Supervised learning sets benchmark for robust spike rate
+  inference from calcium imaging signals}}.
+\newblock Technical report.
+
+\bibitem[Tian et~al., 2009]{Tian:2009fw}
+Tian, L., Hires, S.~A., Mao, T., Huber, D., Chiappe, M.~E., Chalasani, S.~H.,
+  Petreanu, L., Akerboom, J., Mckinney, S.~A., Schreiter, E.~R., Bargmann,
+  C.~I., Jayaraman, V., Svoboda, K., \& Looger, L.~L. (2009).
+\newblock {Imaging neural activity in worms, flies and mice with improved GCaMP
+  calcium indicators}.
+\newblock {\em Nature Methods}, 6(12), 875--881.
+
+\bibitem[Uchida \& Mainen, 2003]{Uchida:2003kc}
+Uchida, N. \& Mainen, Z.~F. (2003).
+\newblock {Speed and accuracy of olfactory discrimination in the rat}.
+\newblock {\em Nature Neuroscience}, 6(11), 1224--1229.
+
+\bibitem[Verstraeten et~al., 2007]{Verstraeten:2007jw}
+Verstraeten, D., Schrauwen, B., D{\textquoteright}Haene, M., \& Stroobandt, D.
+  (2007).
+\newblock {An experimental unification of reservoir computing methods}.
+\newblock {\em Neural Networks}, 20(3), 391--403.
+
+\bibitem[Vogelstein et~al., 2010]{Vogelstein:2010jl}
+Vogelstein, J.~T., Packer, A.~M., Machado, T.~A., Sippy, T., Babadi, B., Yuste,
+  R., \& Paninski, L. (2010).
+\newblock {Fast nonnegative deconvolution for spike train inference from
+  population calcium imaging.}
+\newblock {\em Journal of Neurophysiology}, 104(6), 3691--3704.
+
+\bibitem[Wang, 2002]{Wang:2002kn}
+Wang, X.-J. (2002).
+\newblock {Probabilistic Decision Making by Slow Reverberation in Cortical
+  Circuits}.
+\newblock 36(5), 955--968.
+
+\bibitem[Wang, 2008]{Wang:2008bd}
+Wang, X.-J. (2008).
+\newblock {Decision making in recurrent neuronal circuits.}
+\newblock {\em Neuron}, 60(2), 215--234.
+
+\bibitem[Wang, 2012]{Wang:2012ed}
+Wang, X.-J. (2012).
+\newblock {Neural dynamics and circuit mechanisms of decision-making}.
+\newblock {\em Current Opinion in Neurobiology}, 22(6), 1039--1046.
+
+\bibitem[Wickelgren, 1977]{Wickelgren:1977tg}
+Wickelgren, W.~A. (1977).
+\newblock {Speed-accuracy tradeoff and information processing dynamics}.
+\newblock {\em Acta Psychologica}, 41(1), 67--85.
+
+\bibitem[Wong \& Wang, 2006]{Wong:2006in}
+Wong, K.-F. \& Wang, X.-J. (2006).
+\newblock {A recurrent network mechanism of time integration in perceptual
+  decisions.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 26(4), 1314--1328.
+
+\bibitem[Yang \& Shadlen, 2007]{Yang:2007in}
+Yang, T. \& Shadlen, M.~N. (2007).
+\newblock {Probabilistic reasoning by neurons}.
+\newblock {\em Nature}, 447(7148), 1075--1080.
+
+\bibitem[Yang \& Zador, 2012]{Yang:2012hw}
+Yang, Y. \& Zador, A.~M. (2012).
+\newblock {Differences in sensitivity to neural timing among cortical areas.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 32(43), 15142--15147.
+
+\bibitem[Zohary et~al., 1994]{Zohary:1994ei}
+Zohary, E., Shadlen, M.~N., \& Newsome, W.~T. (1994).
+\newblock {Correlated neuronal discharge rate and its implications for
+  psychophysical performance.}
+\newblock {\em Nature}, 370(6485), 140--143.
+
+\end{thebibliography}
