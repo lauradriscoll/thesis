@@ -1,36 +1,6 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic of virtual reality behavior system.}}{23}{figure.caption.7}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces A fixed association evidence accumulation task in virtual reality.}}{25}{figure.caption.8}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Behavioral training procedure for the fixed association evidence accumulation task}}{27}{figure.caption.9}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Behavioral characterization of the fixed association evidence accumulation task.}}{30}{figure.caption.10}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces A delayed-match-to-sample task in virtual reality.}}{34}{figure.caption.11}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Behavioral training procedure for the delayed-match-to-sample task}}{36}{figure.caption.12}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces A delayed-match-to-sample evidence accumulation task in virtual reality.}}{41}{figure.caption.13}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Behavioral training procedure for the delayed-match-to-sample evidence accumulation task}}{43}{figure.caption.14}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Behavioral characterization of the delayed-match-to-sample evidence accumulation task.}}{45}{figure.caption.15}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Behavioral analysis suite.}}{47}{figure.caption.16}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Example imaging field of view and activity traces.}}{54}{figure.caption.17}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Summary of datasets analyzed.}}{54}{figure.caption.18}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Distributed representation of task-relevant information across PPC neurons.}}{57}{figure.caption.19}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces (Continued)\relax }}{58}{figure.caption.20}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Mean population activity patterns in PPC for all cells and selective cells.}}{59}{figure.caption.21}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Analyses of single neuron- and population-level representations of task-relevant features.}}{62}{figure.caption.22}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Clustering neuronal activity across trials to reveals trial-to-trial variability.}}{65}{figure.caption.23}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces (Continued)\relax }}{66}{figure.caption.24}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Characterization of behavioral and neuronal patterns across clusters.}}{69}{figure.caption.25}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces (Continued)\relax }}{70}{figure.caption.26}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Visualizations of neuronal activity across clusters.}}{73}{figure.caption.27}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Long timescale temporal structure in PPC activity.}}{75}{figure.caption.28}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Influence of the current population activity pattern on future population activity patterns and the change in population activity in n-dimensional activity space.}}{76}{figure.caption.29}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Contribution of behavioral variability to temporally structured trial-trial variability.}}{78}{figure.caption.30}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Neuronal population activity in the current trial reflects the previous trial's choice and outcome.}}{81}{figure.caption.31}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Contribution of behavioral variability to classification of the previous trial's outcome.}}{83}{figure.caption.32}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Visualizations of trial trajectories.}}{83}{figure.caption.33}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Analysis of neuronal activity related to evidence accumulation.}}{87}{figure.caption.34}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces (Continued)\relax }}{88}{figure.caption.35}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Main results re-analyzed using ${"Δ}$F/F values.}}{111}{figure.caption.36}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces (Continued)\relax }}{112}{figure.caption.37}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Behavioral training procedure for the fixed association evidence accumulation task}}{30}{figure.caption.7}
+\addvspace {10\p@ }

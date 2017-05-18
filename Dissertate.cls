@@ -54,7 +54,7 @@
 \setromanfont[Numbers=OldStyle, Ligatures={Common, TeX}, Scale=1.0]{Times New Roman}
 \newfontfamily{\smallcaps}[RawFeature={+c2sc,+scmp}]{Arial}
 \setsansfont[Scale=MatchLowercase, BoldFont={Arial Bold}]{Arial}
-\setmonofont[Scale=MatchLowercase]{Source Code Pro}
+\setmonofont[Scale=MatchLowercase]{Arial}
 \RequirePackage[labelfont={bf,sf,footnotesize,singlespacing},
                 textfont={sf,footnotesize,singlespacing},
                 justification={justified,RaggedRight},
