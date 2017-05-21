@@ -1,4 +1,4 @@
-\chapter{Monitoring neuronal activity over days during learning blah} \label{chapter_4}
+\chapter{Monitoring neuronal activity over days during learning} \label{chapter_4}
 
 \section{Introduction}\label{sec:chap4_intro}
 
@@ -17,17 +17,13 @@ We first asked whether the neuronal activity patterns were different between tri
 \subsection{Rate of Change During Learning Compared to Stable Behavior} \label{chap4:rate_change}
 
 This similar rate of change could have occurred because the cells with activity related to the novel trial types were different from the cells with activity related to familiar trial types. We therefore analyzed if the cells with activity related to novel cues had activity related to familiar cues on previous days. Surprisingly, cells with activity related to novel cues were more likely to come from the group of cells which recently (within the past ten days) had activity related to the familiar cues than from a random sample of neurons (Figure 7G-H). 
-\begin{figure}
 
+\begin{figure}
 \includegraphics[width=\textwidth]{figures/7_learning_same_pool.pdf}
-\caption[Behavioral training procedure for the fixed association evidence accumulation task]{\textbf{Behavioral training procedure for the fixed association evidence accumulation task. a,}
-Sequence of mazes used for behavioral training. Asterisks indicate reward location. Only some example mazes are shown (for example, right choice and not left choice maze in maze 1).
+\caption[Cells with novel cue related activity came from the pool of cells with recent familiar cue related activity.]{\textbf{Cells with novel cue related activity came from the pool of cells with recent familiar cue related activity. a,}
+Left: For individual cells in mouse 1, novel cue-related activity on day n (measured by > 0 contribution for novel cue onset/offset in the GLM, see Methods) vs. familiar cue-related activity on day n-20. Right: For the same cells, novel cue-related activity on day n vs familiar cue-related activity on day n.
 %
-\textbf{b,} Distribution of net evidence corresponding to different difficulties used in training the final task (maze 8; see \textbf{d}).
-%
-\textbf{c,} Screen captures of the virtual environment at cue 1, cue 6, and the turn in maze 8.
-%
-\textbf{d,} Behavioral performance across sessions for three example mice. Colors correspond to the maze colors indicated in \textbf{a}. Shapes correspond to the net evidence probabilities in \textbf{b}.
+\textbf{b,} For cells with novel cue related activity on day n, the fraction of cells with activity related to either white or black cue onset/offset on the same day (day n) and on previous days (days n-2, n-5, n-10, n-20, n-30). Circles indicate individual data points and bars indicate mean, n = 4 (2 mice with 2 novel trial types each). Shaded region indicates 95 $\%$ confidence interval for the fraction of cells with activity on white cue-left turn and black cue-right turn trials taken from a random subset of neurons.
 \label{figures/7_learning_same_pool}}
 \end{figure}
 
@@ -36,12 +32,39 @@ The evolving pool of cells involved in representing task features was thus more 
 
 \section{Methods}
 
-\subsection{Dimensionality reduction of neuronal and behavioral data}We reduced the dimensionality of single trial data into a space that captured the most variance across trial types and epochs of the trial. We performed principal component analysis (PCA) on averaged population responses across these different conditions. We constructed a data matrix X of size Nneurons × Nconditions, in which columns corresponded to spatially binned z-scored population response vectors for a given segment of the trial (Figure 7). The principal components (PCs) of this data matrix were vectors va of length Nneurons indexed by the number of PCs. For visualization, we then projected single trial data onto the first 3 PCs. 
-\bigskip
-The motivation for this analysis was to visualize differences in single trial data that corresponded to differences in our conditions of interest. In Figure 7G we were interested in the evolving population activity throughout the duration of the trial for different trial types on a single day. Our neuronal data matrix X included 345 neurons identified on a single day and 7 spatial bins evenly spanning the duration of the trial for all 4 trial types (28 conditions). We projected single trial data onto the first 3 PCs of this matrix from individual spatial bins 1, 4 and 7 in the cue period, delay period and turn period. This analysis was solely for visualization. All quantified decoding was performed in the full dimensional space. 
+\subsection{Dimensionality reduction of neuronal and behavioral data}
+We reduced the dimensionality of single trial data into a space that captured the most variance across trial types and epochs of the trial. We performed principal component analysis (PCA) on averaged population responses across these different conditions. We constructed a data matrix X of size Nneurons × Nconditions, in which columns corresponded to spatially binned z-scored population response vectors for a given segment of the trial (Figure 7). The principal components (PCs) of this data matrix were vectors va of length Nneurons indexed by the number of PCs. For visualization, we then projected single trial data onto the first 3 PCs. 
 
-\subsection{Cosine Distance}Neuronal cosine distance was calculated from normalized population response vectors of all neurons that were identified on the session of interest (1 spatial bin × Nneurons). Behavioral cosine distance was calculated from normalized behavioral variable vectors (translational treadmill velocity, rotational treadmill velocity, view angle) (1 spatial bin × 3 features). 
+\bigskip
+
+The motivation for this analysis was to visualize differences in single trial data that corresponded to differences in our conditions of interest. In Figure 7G we were interested in the evolving population activity throughout the duration of the trial for different trial types on a single day. Our neuronal data matrix X included 345 neurons identified on a single day and 7 spatial bins evenly spanning the duration of the trial for all 4 trial types (28 conditions). We projected single trial data onto the first 3 PCs of this matrix from individual spatial bins 1, 4 and 7 in the cue period, delay period and turn period. This analysis was solely for visualization. All quantified decoding was performed in the full dimensional space. 
+
+\subsection{Cosine Distance}
+Neuronal cosine distance was calculated from normalized population response vectors of all neurons that were identified on the session of interest (1 spatial bin × $N_neurons$). Behavioral cosine distance was calculated from normalized behavioral variable vectors (translational treadmill velocity, rotational treadmill velocity, view angle) (1 spatial bin × 3 features). 
 
 \section{Discussion}
 
-We speculate that the changes in neuronal activity reported here reveal key features of how associations are formed and represented in PPC. In particular, our work reveals a potential strategy for a population of neurons to achieve stability in the maintenance of learned associations while also allowing flexibility to incorporate new information. 
+We speculate that the changes in neuronal activity reported here reveal key features of how associations are formed and represented in PPC. In particular, our work reveals a potential strategy for a population of neurons to achieve stability in the maintenance of learned associations while also allowing flexibility to incorporate new information.
+
+\bigskip
+
+The rate of reorganization in neuronal activity-behavior relationships was only slightly elevated during learning compared to during stable task performance. We propose that continuous reorganization of representations during stable behavior could endow the network with robustness to perturbations due to injury or learning of additional representations. Through the continuous exploration of parameter space for learned behaviors, the network can sample from the unconstrained space of possible solutions. Flexibility in the representation for a single task could allow the continuous addition of new representations without catastrophic forgetting of previously learned representations. These hypotheses must be tested explicitly in artificial networks where there is no external controller to turn on and off learning.
+
+
+\subsection{Trial-trial variability is stable over learning}
+After controlling for behavioral choice, we found that neuronal activity patterns did not stabilize over the course of learning. This result is contradictory to a number of motor learning studies. There are a few possible explanations for these conflicting results. 
+
+\bigskip
+
+Emergence of stable patterns could be an artefact of increasing stereotypy of motor behaviors. Komiyama et al demonstrated that over the course of two weeks during learning of a cued lever press task, lever movements on individual trials became more stereotyped over time. Concurrently the number of movement related neurons went through a period of expansion and followed by contraction resulting in a smaller and more stable population of movement-related neurons towards the end of learning. Similar results have been reported over the course of BMI control learning. Our learning task was designed to control for change in the behavioral readout. By first training mice to report a learned stimulus-action pair with a learned behavioral response (left or right turn) before the acquisition of new stimulus-action relationships, we limit the amount of change in the behavioral response. We did not see a progressively stereotyped motor response over the course of the novel stimulus-action pairing. By closer inspection of the correlation matrices reported in these motor learning studies, it is clear that population responses become more similar during initial phases of learning, as motor responses become more stereotyped. However, after this initial phase of motor response learning, it is unclear whether the responses are completely stabilized or if they simply change at a slower rate. It will be important for future studies to control for behavioral change for the examination of neuronal change over learning.
+
+\bigskip
+
+Alternatively, the timescales over which learning occurs could vary across studies such that it is difficult to compare stabilization of neuronal responses. Our learning task simply requires the animal to match one of two possible actions to each novel stimulus. Learning through trial and error it is possible for the animal to learn the new stimulus-action pair on a single trial. However, behavioral improvement over days suggests our animals are learning this behavior on a prolonged time scale. We see behavioral improvement over the course of four days during learning. Komiyama et al report learning of their lever press task over a similar time scale; therefore, it seems unlikely that differing timescales for learning to explain differences in the stabilization of neuronal responses over time.
+
+\subsection{Steady number of task related neurons during learning}
+We also found a stable number of neurons with novel trial related activity throughout the course of learning. In contrast with previous studies in sensory and motor areas, we found the number of neurons with novel trial related activity to be stable over learning. Rather, from the very first introduction of the novel cues, there was already a large number of neurons with novel cue related activity. We could decode novel trial types from familiar trial types throughout the duration of the trial using neuronal population activity. Our ability to decode novel trial types was stable over learning, with only a slight rise over ten sessions. These results suggest that the overrepresentation of familiar trial related activity was possibly transferred to novel cue representations. It will be of great interest in future studies to examine the extent to which familiar task representations can be transferred to the learning of novel tasks and the degree of task similarity required for the constructive transfer of these representations.
+
+\bigskip
+
+All of these measures for learning are likely dependent on task design and the brain region of interest. With newly available recording methods for tracking populations of cells over learning and over the course of stable behavior, it will be important to compare these measures across brain regions and across tasks.

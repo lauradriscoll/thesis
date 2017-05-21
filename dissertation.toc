@@ -2,70 +2,76 @@
 \contentsline {chapter}{List of figures}{viii}{section*.3}
 \contentsline {chapter}{Acknowledgments}{viii}{section*.5}
 \contentsline {chapter}{\numberline {1}General introduction and background}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}The Memory Engram and Fixed Representations in Cortex}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}Synaptic Plasticity and Dynamic Representations in Cortex}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Convergence to a Fixed Representation During Learning}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}Variable Rate of Change to Balance Learning and Memory}{4}{section.1.4}
-\contentsline {section}{\numberline {1.5}Tracking the Activity of Cells Over Days}{4}{section.1.5}
-\contentsline {section}{\numberline {1.6}Virtual Reality for Precise Behavioral Control}{5}{section.1.6}
-\contentsline {chapter}{\numberline {2}Development of methods for tracking neurons and behavior over days}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction}{6}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Two photon microscopy}{7}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Fluorescent indicators}{8}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Developments in image processing}{10}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Surgical methods for optical access to brain tissue}{11}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}The mouse as a model organism}{12}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}A virtual reality system for mouse behavior}{13}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Detailed methods for chronic recordings}{13}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Fixed association decision task}{14}{subsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.1.1}Task description}{14}{subsubsection.2.2.1.1}
-\contentsline {subsection}{\numberline {2.2.2}Training procedure}{14}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}2 cue task training}{15}{subsubsection.2.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2.2}3 and 4 cue task training}{16}{subsubsection.2.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.3}Bias Correction}{17}{subsubsection.2.2.2.3}
-\contentsline {subsection}{\numberline {2.2.3}Surgical procedures}{17}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Microscope design}{18}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Image acquisition}{19}{subsection.2.2.5}
-\contentsline {subsection}{\numberline {2.2.6}Processing of imaging data}{19}{subsection.2.2.6}
-\contentsline {subsection}{\numberline {2.2.7}Within-session processing}{20}{subsection.2.2.7}
-\contentsline {subsection}{\numberline {2.2.8}Across-session processing}{20}{subsection.2.2.8}
-\contentsline {chapter}{\numberline {3}Dynamic reorganization of neuronal activity patterns in parietal cortex}{22}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{22}{section.3.1}
-\contentsline {section}{\numberline {3.2}Results}{23}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Tracking behavior and neuronal activity over weeks}{24}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Necessity of PPC activity for post-learning performance of the task}{25}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Reorganization of sequential activity across maze locations}{26}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{27}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Using a generalized linear model to compare relationships between neuronal activity and behavioral features across days}{29}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Changing activity-behavior relationships in single neurons over days}{31}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Consistent statistical features of population activity on each day}{35}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Decoding of information from dynamic neuronal representations}{36}{subsection.3.2.8}
-\contentsline {section}{\numberline {3.3}Discussion}{39}{section.3.3}
-\contentsline {section}{\numberline {3.4}Acknowledgements}{40}{section.3.4}
-\contentsline {section}{\numberline {3.5}Author contributions}{41}{section.3.5}
-\contentsline {section}{\numberline {3.6}Data Analysis Methods}{41}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}General Analysis Procedures}{41}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Identification of Significant Peaks of Activity}{42}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Encoding model }{42}{subsection.3.6.3}
-\contentsline {subsubsection}{\numberline {3.6.3.1}Model Parameters}{43}{subsubsection.3.6.3.1}
-\contentsline {subsubsection}{\numberline {3.6.3.2}Fitting}{44}{subsubsection.3.6.3.2}
-\contentsline {subsubsection}{\numberline {3.6.3.3}Analysis of Model}{45}{subsubsection.3.6.3.3}
-\contentsline {subsubsection}{\numberline {3.6.3.4}Metric of consistency in activity-behavior relationships}{47}{subsubsection.3.6.3.4}
-\contentsline {subsubsection}{\numberline {3.6.3.5}Contribution of task and behavioral features to the activity of a cell}{48}{subsubsection.3.6.3.5}
-\contentsline {subsection}{\numberline {3.6.4}Decoding}{48}{subsection.3.6.4}
-\contentsline {chapter}{\numberline {4}Monitoring neuronal activity over days during learning blah}{50}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{50}{section.4.1}
-\contentsline {section}{\numberline {4.2}Results}{50}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Task Design for Learning a Stimulus-Action Pair}{50}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Decoding Trial Type Information Over the Course of Learning}{51}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Rate of Change During Learning Compared to Stable Behavior}{52}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Methods}{52}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Dimensionality reduction of neuronal and behavioral data}{52}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Cosine Distance}{54}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Discussion}{55}{section.4.4}
-\contentsline {chapter}{\numberline {5}Discussion and future experiments}{56}{chapter.5}
-\contentsline {section}{\numberline {5.1}Dynamic reorganization of activity in cortex}{56}{section.5.1}
-\contentsline {section}{\numberline {5.2}A strategy For maintaining and updating relevant activity patterns}{57}{section.5.2}
-\contentsline {section}{\numberline {5.3}Balancing stability and flexibility according to role}{59}{section.5.3}
-\contentsline {section}{\numberline {5.4}Stability in the emergent properties of the network}{60}{section.5.4}
-\contentsline {chapter}{References}{62}{chapter*.8}
+\contentsline {section}{\numberline {1.1}The memory engram and fixed representations in cortex}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Synaptic plasticity and dynamic representations in cortex}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Adult cortical neurons maintain flexibility}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Tracking the Activity of Cells Over Days}{6}{section.1.4}
+\contentsline {chapter}{\numberline {2}Development of methods for tracking neurons and behavior over days}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Two photon microscopy}{10}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Fluorescent indicators}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Developments in image processing}{13}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Surgical methods for optical access to brain tissue}{14}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}The mouse as a model organism}{14}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}A virtual reality system for mouse behavior}{15}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Posterior parietal cortex}{16}{subsection.2.1.7}
+\contentsline {section}{\numberline {2.2}Detailed methods for chronic recordings}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Mice}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Virtual environment design}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Fixed association decision task}{20}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Training procedure}{20}{subsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.4.1}2 cue task training}{20}{subsubsection.2.2.4.1}
+\contentsline {subsubsection}{\numberline {2.2.4.2}3 and 4 cue task training}{22}{subsubsection.2.2.4.2}
+\contentsline {subsubsection}{\numberline {2.2.4.3}Bias Correction}{22}{subsubsection.2.2.4.3}
+\contentsline {subsection}{\numberline {2.2.5}Surgical procedures}{23}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Field sign maps}{24}{subsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.6.1}Widefield microscope design}{24}{subsubsection.2.2.6.1}
+\contentsline {subsubsection}{\numberline {2.2.6.2}Visual stimulus design}{24}{subsubsection.2.2.6.2}
+\contentsline {subsubsection}{\numberline {2.2.6.3}Retinotopy analysis design}{25}{subsubsection.2.2.6.3}
+\contentsline {subsection}{\numberline {2.2.7}Two photon microscope design}{25}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Image acquisition}{26}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}Processing of imaging data}{26}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}Within-session processing}{27}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Across-session processing}{28}{subsection.2.2.11}
+\contentsline {chapter}{\numberline {3}Dynamic reorganization of neuronal activity patterns in parietal cortex}{32}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{32}{section.3.1}
+\contentsline {section}{\numberline {3.2}Results}{33}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Tracking behavior and neuronal activity over weeks}{34}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Necessity of PPC activity for post-learning performance of the task}{36}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Reorganization of sequential activity across maze locations}{38}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{39}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Using a generalized linear model to compare relationships between neuronal activity and behavioral features across days}{43}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Changing activity-behavior relationships in single neurons over days}{49}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Consistent statistical features of population activity on each day}{53}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Decoding of information from dynamic neuronal representations}{54}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.3}Discussion}{57}{section.3.3}
+\contentsline {section}{\numberline {3.4}Acknowledgements}{58}{section.3.4}
+\contentsline {section}{\numberline {3.5}Author contributions}{58}{section.3.5}
+\contentsline {section}{\numberline {3.6}Data Analysis Methods}{59}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}General Analysis Procedures}{59}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Identification of Significant Peaks of Activity}{59}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Encoding model }{60}{subsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.3.1}Model Parameters}{61}{subsubsection.3.6.3.1}
+\contentsline {subsubsection}{\numberline {3.6.3.2}Fitting}{62}{subsubsection.3.6.3.2}
+\contentsline {subsubsection}{\numberline {3.6.3.3}Analysis of Model}{63}{subsubsection.3.6.3.3}
+\contentsline {subsubsection}{\numberline {3.6.3.4}Metric of consistency in activity-behavior relationships}{65}{subsubsection.3.6.3.4}
+\contentsline {subsubsection}{\numberline {3.6.3.5}Contribution of task and behavioral features to the activity of a cell}{66}{subsubsection.3.6.3.5}
+\contentsline {subsection}{\numberline {3.6.4}Decoding}{66}{subsection.3.6.4}
+\contentsline {chapter}{\numberline {4}Monitoring neuronal activity over days during learning}{68}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{68}{section.4.1}
+\contentsline {section}{\numberline {4.2}Results}{68}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Task Design for Learning a Stimulus-Action Pair}{68}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Decoding Trial Type Information Over the Course of Learning}{69}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Rate of Change During Learning Compared to Stable Behavior}{69}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Methods}{70}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Dimensionality reduction of neuronal and behavioral data}{70}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cosine Distance}{72}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Discussion}{73}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Trial-trial variability is stable over learning}{73}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Steady number of task related neurons during learning}{75}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}Discussion and future experiments}{77}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dynamic reorganization of activity in cortex}{77}{section.5.1}
+\contentsline {section}{\numberline {5.2}A strategy For maintaining and updating relevant activity patterns}{78}{section.5.2}
+\contentsline {section}{\numberline {5.3}Balancing stability and flexibility according to role}{80}{section.5.3}
+\contentsline {section}{\numberline {5.4}Stability in the emergent properties of the network}{81}{section.5.4}
+\contentsline {chapter}{References}{83}{chapter*.18}
