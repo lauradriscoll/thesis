@@ -39,39 +39,39 @@
 \contentsline {subsection}{\numberline {3.2.1}Tracking behavior and neuronal activity over weeks}{34}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Necessity of PPC activity for post-learning performance of the task}{36}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Reorganization of sequential activity across maze locations}{38}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{39}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{40}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}Using a generalized linear model to compare relationships between neuronal activity and behavioral features across days}{43}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Changing activity-behavior relationships in single neurons over days}{49}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Consistent statistical features of population activity on each day}{53}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Decoding of information from dynamic neuronal representations}{54}{subsection.3.2.8}
-\contentsline {section}{\numberline {3.3}Discussion}{57}{section.3.3}
-\contentsline {section}{\numberline {3.4}Acknowledgements}{58}{section.3.4}
-\contentsline {section}{\numberline {3.5}Author contributions}{58}{section.3.5}
-\contentsline {section}{\numberline {3.6}Data Analysis Methods}{59}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}General Analysis Procedures}{59}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Identification of Significant Peaks of Activity}{59}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Encoding model }{60}{subsection.3.6.3}
-\contentsline {subsubsection}{\numberline {3.6.3.1}Model Parameters}{61}{subsubsection.3.6.3.1}
-\contentsline {subsubsection}{\numberline {3.6.3.2}Fitting}{62}{subsubsection.3.6.3.2}
-\contentsline {subsubsection}{\numberline {3.6.3.3}Analysis of Model}{63}{subsubsection.3.6.3.3}
-\contentsline {subsubsection}{\numberline {3.6.3.4}Metric of consistency in activity-behavior relationships}{65}{subsubsection.3.6.3.4}
-\contentsline {subsubsection}{\numberline {3.6.3.5}Contribution of task and behavioral features to the activity of a cell}{66}{subsubsection.3.6.3.5}
-\contentsline {subsection}{\numberline {3.6.4}Decoding}{66}{subsection.3.6.4}
-\contentsline {chapter}{\numberline {4}Monitoring neuronal activity over days during learning}{68}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{68}{section.4.1}
-\contentsline {section}{\numberline {4.2}Results}{68}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Task Design for Learning a Stimulus-Action Pair}{68}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Decoding Trial Type Information Over the Course of Learning}{69}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Rate of Change During Learning Compared to Stable Behavior}{69}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Methods}{70}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Dimensionality reduction of neuronal and behavioral data}{70}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Cosine Distance}{72}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Discussion}{73}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Trial-trial variability is stable over learning}{73}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Steady number of task related neurons during learning}{75}{subsection.4.4.2}
-\contentsline {chapter}{\numberline {5}Discussion and future experiments}{77}{chapter.5}
-\contentsline {section}{\numberline {5.1}Dynamic reorganization of activity in cortex}{77}{section.5.1}
-\contentsline {section}{\numberline {5.2}A strategy For maintaining and updating relevant activity patterns}{78}{section.5.2}
-\contentsline {section}{\numberline {5.3}Balancing stability and flexibility according to role}{80}{section.5.3}
-\contentsline {section}{\numberline {5.4}Stability in the emergent properties of the network}{81}{section.5.4}
-\contentsline {chapter}{References}{83}{chapter*.18}
+\contentsline {subsection}{\numberline {3.2.6}Changing activity-behavior relationships in single neurons over days}{52}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Consistent statistical features of population activity on each day}{58}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Decoding of information from dynamic neuronal representations}{59}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.3}Discussion}{64}{section.3.3}
+\contentsline {section}{\numberline {3.4}Acknowledgements}{65}{section.3.4}
+\contentsline {section}{\numberline {3.5}Author contributions}{66}{section.3.5}
+\contentsline {section}{\numberline {3.6}Data Analysis Methods}{66}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}General Analysis Procedures}{66}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Identification of Significant Peaks of Activity}{67}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Encoding model}{67}{subsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.3.1}Model Parameters}{68}{subsubsection.3.6.3.1}
+\contentsline {subsubsection}{\numberline {3.6.3.2}Fitting}{69}{subsubsection.3.6.3.2}
+\contentsline {subsubsection}{\numberline {3.6.3.3}Analysis of Model}{70}{subsubsection.3.6.3.3}
+\contentsline {subsubsection}{\numberline {3.6.3.4}Metric of consistency in activity-behavior relationships}{72}{subsubsection.3.6.3.4}
+\contentsline {subsubsection}{\numberline {3.6.3.5}Contribution of task and behavioral features to the activity of a cell}{73}{subsubsection.3.6.3.5}
+\contentsline {subsection}{\numberline {3.6.4}Decoding}{73}{subsection.3.6.4}
+\contentsline {chapter}{\numberline {4}Monitoring neuronal activity over days during learning}{75}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{75}{section.4.1}
+\contentsline {section}{\numberline {4.2}Results}{75}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Task Design for Learning a Stimulus-Action Pair}{75}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Rate of Change During Learning Compared to Stable Behavior}{76}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Neurons with novel cue related activity}{77}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Methods}{79}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Dimensionality reduction of neuronal and behavioral data}{79}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cosine Distance}{80}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Discussion}{80}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Trial-trial variability is stable over learning}{81}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Steady number of task related neurons during learning}{83}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}Discussion and future experiments}{84}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dynamic reorganization of activity in cortex}{84}{section.5.1}
+\contentsline {section}{\numberline {5.2}A strategy For maintaining and updating relevant activity patterns}{85}{section.5.2}
+\contentsline {section}{\numberline {5.3}Balancing stability and flexibility according to role}{87}{section.5.3}
+\contentsline {section}{\numberline {5.4}Stability in the emergent properties of the network}{88}{section.5.4}
+\contentsline {chapter}{References}{90}{chapter*.29}

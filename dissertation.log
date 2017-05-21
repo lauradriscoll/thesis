@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  20 MAY 2017 21:08
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 MAY 2017 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1616,7 +1616,7 @@ Overfull \hbox (558.12488pt too wide) in paragraph at lines 53--54
  []
 
 
-Overfull \hbox (4253.4344pt too wide) in paragraph at lines 53--54
+Overfull \hbox (4142.48799pt too wide) in paragraph at lines 53--54
 [][][][][][][][][][][][][]\OML/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -1632,17 +1632,18 @@ Overfull \hbox (4253.4344pt too wide) in paragraph at lines 53--54
 ][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][]; [][][][][][][][]\OT
 1/cmr/m/n/12 ?[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]([][]
-[][][][][][])\OML/cmm/m/it/12 :[][][][][][][][][][]; [][][][][][][][][][][][][]
+[][][][][][][]\OML/cmm/m/it/12 :[][][][]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :[][]
+[][][][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][]\OT1/cmr/m/n/12 ?[][][][][][][][][][][][]([][][][][][][][][
+]\OML/cmm/m/it/12 :[][][][]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :[][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ([][][][][][][][][]\OML/c
+mm/m/it/12 :; [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :;
+ [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]\OT1
+/cmr/m/n/12 )\OML/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ?[][][][
-][][][][][][][][]([][][][][][][][])\OML/cmm/m/it/12 :[][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ([][][][][][][][][]\OML/cmm/m/it/1
-2 :; [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]
-\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]\OT1/cmr/m/n/
-12 )\OML/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\OT1
-/cmr/m/n/12 ?[][][][][][][][][][][][][][] :
+][][]\OT1/cmr/m/n/12 ?[][][][][][][][][][][][][][] :
  []
 
 
@@ -1660,111 +1661,121 @@ mm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 
 [36] [37] [38]
 File: figures/2_all.pdf Graphic file (type QTm)
- <use  "figures/2_all.pdf" >
-! Missing $ inserted.
-<inserted text> 
-                $
-l.67 \label{fig:2_all}}
-                       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.67 \label{fig:2_all}}
-                       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no ± in font cmr10!
-
-Overfull \hbox (112.8143pt too wide) in paragraph at lines 67--67
-[]\OML/cmm/m/it/10 :[][][]; [][][][][]:[][][][][][] \OT1/cmr/m/n/10 : [][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\OML/cmm
-/m/it/10 ; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][] \OT1/cmr/m/n/10 + 
- []
-
-
-Overfull \hbox (27.76724pt too wide) in paragraph at lines 67--67
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][]\OML/cmm/m/it/10 ; [][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] \OT1/cmr/m/n/10 +
- 
- []
-
-[39] [40]
+ <use  "figures/2_all.pdf" > [39] [40]
 File: figures/3_all.pdf Graphic file (type QTm)
- <use  "figures/3_all.pdf" > [41] [42] [43] [44]
-File: figures/4_filters.pdf Graphic file (type QTm)
 
-<use  "figures/4_filters.pdf" >
+<use  "figures/3_all.pdf" > [41] [42]
+File: figures/4_glm_tutorial.pdf Graphic file (type QTm)
+ <use  "figures/4_glm_tutorial.pdf" >
+[43] [44] [45]
+File: figures/4_filters.pdf Graphic file (type QTm)
+ <use  "figures/4_filters.pdf" >
 FPfigure is inserted on page \pageref {FPfigure-2-pos}!
 
-LaTeX Warning: Reference `6_decoding' on page 45 undefined on input line 124.
+LaTeX Warning: Reference `6_decoding' on page 46 undefined on input line 130.
 
 
-Overfull \hbox (3.0pt too wide) in paragraph at lines 124--124
+Overfull \hbox (3.0pt too wide) in paragraph at lines 130--130
 [][][][] 
  []
 
-[45] [46]
+[46] [47]
 File: figures/4_glm_fits.pdf Graphic file (type QTm)
- <use  "figures/4_glm_fits.pdf" >
-
-LaTeX Warning: Reference `cell_selection' on page 47 undefined on input line 14
-1.
-
-[47
+ <use  "figures/4_glm_fits.pdf" > [48
 
 
-] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
-[62] [63] [64] [65] [66]) [67]
+] [49]
+File: figures/4_distribution_filters.pdf Graphic file (type QTm)
+
+<use  "figures/4_distribution_filters.pdf" >
+File: figures/4_glm_across_design.pdf Graphic file (type QTm)
+
+<use  "figures/4_glm_across_design.pdf" > [50] [51]
+File: figures/4_glm_model_comparison.pdf Graphic file (type QTm)
+
+<use  "figures/4_glm_model_comparison.pdf" > [52]
+File: figures/4_glm_across_population.pdf Graphic file (type QTm)
+
+<use  "figures/4_glm_across_population.pdf" > [53] [54] [55]
+File: figures/glm_quant_stability.pdf Graphic file (type QTm)
+
+<use  "figures/glm_quant_stability.pdf" > [56] [57]
+File: figures/behave_controls.pdf Graphic file (type QTm)
+
+<use  "figures/behave_controls.pdf" > [58]
+File: figures/5_set_point.pdf Graphic file (type QTm)
+ <use  "figures/5_set_point.pdf" >
+[59] [60]
+File: figures/6_decoding_unstable_stable_7bins_small.pdf Graphic file (type QTm
+)
+ <use  "figures/6_decoding_unstable_stable_7bins_small.pdf" >
+
+LaTeX Warning: Float too large for page by 160.86247pt on input line 274.
+
+[61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]) [73] [74]
 \openout2 = `chapters/chapter4.aux'.
 
- (./chapters/chapter4.tex
+
+(./chapters/chapter4.tex
 Chapter 4.
-[68
+
+LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
+
+
+LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
+
+
+LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
+
+[75
 
 
 
 ]
+File: figures/7_cues.pdf Graphic file (type QTm)
+ <use  "figures/7_cues.pdf" >
+
+LaTeX Warning: Reference `fig:7_cues' on page 76 undefined on input line 26.
+
 Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;!
 Missing character: There is no ^^99 in font Times New Roman/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;!
- [69]
+[76]
+File: figures/7_pca_all.pdf Graphic file (type QTm)
+ <use  "figures/7_pca_all.pdf" >
 File: figures/7_learning_same_pool.pdf Graphic file (type QTm)
- <use  "figures/7_learning_same_pool.pdf" >
 
-LaTeX Warning: Float too large for page by 64.86247pt on input line 28.
+<use  "figures/7_learning_same_pool.pdf" >
 
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+LaTeX Warning: Float too large for page by 64.86247pt on input line 47.
+
+[77] [78]
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;mapping=tex-text;!
-[70] [71]
-Invalid UTF-8 byte or sequence at line 43 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 43 replaced by U+FFFD.
+ [79]
+Invalid UTF-8 byte or sequence at line 61 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 61 replaced by U+FFFD.
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;mapping=tex-text;!
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;mapping=tex-text;!
- [72] [73] [74]) [75] [76]
+ [80] [81] [82]) [83]
 \openout2 = `chapters/chapter5.aux'.
 
  (./chapters/chapter5.tex
 Chapter 5.
-[77
+[84
 
 
 
-] [78] [79] [80]) [81] [82] (./dissertation.bbl)
+] [85] [86] [87]) [88] [89] (./dissertation.bbl)
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
-[83
+[90
 
 
 
@@ -1792,12 +1803,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
 ### semi simple group (level 1) entered at line 137 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28585 strings out of 493706
- 522446 string characters out of 6145769
+ 28639 strings out of 493706
+ 523694 string characters out of 6145769
  610696 words of memory out of 5000000
- 31525 multiletter control sequences out of 15000+600000
- 10840 words of font info for 103 fonts, out of 8000000 for 9000
+ 31570 multiletter control sequences out of 15000+600000
+ 10824 words of font info for 101 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,12n,104p,10479b,1899s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,104p,10479b,1900s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (92 pages).
+Output written on dissertation.pdf (99 pages).
