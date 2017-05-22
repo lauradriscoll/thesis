@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 MAY 2017 00:01
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 MAY 2017 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1490,14 +1490,20 @@ LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
 
 (./chapters/chapter1.tex
 Chapter 1.
-
-Package natbib Warning: Citation `Abbott2009' on page 1 undefined on input line
- 3.
-
 [1
 
 
-] [2] [3] [4] [5] [6]) [7] [8]
+] [2] [3] [4]
+Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^9d in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+ [5]
+Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^99 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+ [6]) [7] [8]
 \openout2 = `chapters/chapter2.aux'.
 
  (./chapters/chapter2.tex
@@ -1569,108 +1575,23 @@ Chapter 3.
 
 ]
 File: figures/1_w_out_inact.pdf Graphic file (type QTm)
- <use  "figures/1_w_out_inact.pdf" >
-LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 30.
-
-
-LaTeX Warning: Reference `cell_selection' on page 33 undefined on input line 30
-.
-
-[33] [34] [35]
+ <use  "figures/1_w_out_inact.pdf" > [33] [34] [35]
 File: figures/1_seq_inact.pdf Graphic file (type QTm)
- <use  "figures/1_seq_inact.pdf" >
-! Missing $ inserted.
-<inserted text> 
-                $
-l.53 ...o just above chance levels (Figure {fig:1_
-                                                  seq_inact} c). These resul...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-! Extra }, or forgotten $.
-l.53 ...ve chance levels (Figure {fig:1_seq_inact}
-                                                   c). These results were ob...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.54 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (558.12488pt too wide) in paragraph at lines 53--54
-\EU1/TimesNewRoman(0)/m/sc/12 fig:1$[][][][][][][][][]\OT1/cmr/m/n/12 )\OML/cmm
-/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][] \OMS/cmsy/m/n/12 ^^@
- []
-
-
-Overfull \hbox (4142.48799pt too wide) in paragraph at lines 53--54
-[][][][][][][][][][][][][]\OML/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ([][][][][][][][][]\OML/cmm/m
-/it/12 :; [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][
-][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]\OT1/cmr
-/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]\OT1/cmr/m/n/12 )\OML
-/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]:[][][][][][][][
-][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]; [][][][][][][][]\OT
-1/cmr/m/n/12 ?[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]([][]
-[][][][][][][]\OML/cmm/m/it/12 :[][][][]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :[][]
-[][][][][][][][]; [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][]\OT1/cmr/m/n/12 ?[][][][][][][][][][][][]([][][][][][][][][
-]\OML/cmm/m/it/12 :[][][][]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :[][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ([][][][][][][][][]\OML/c
-mm/m/it/12 :; [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :;
- [][][][]\OT1/cmr/m/n/12 ; [][][][][][][][][][]\OML/cmm/m/it/12 :; [][][][]\OT1
-/cmr/m/n/12 )\OML/cmm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][]\OT1/cmr/m/n/12 ?[][][][][][][][][][][][][][] :
- []
-
-
-Overfull \hbox (1258.85735pt too wide) in paragraph at lines 53--54
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]\OML/c
-mm/m/it/12 :[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][]; [][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]; [][][][][][][][][
-][][][][][][][][][][][][][][][][][][][]\OT1/cmr/m/n/12 ([][][][][][][])\OML/cmm
-/m/it/12 :$ 
- []
-
-[36] [37] [38]
+<use  "figures/1_seq_inact.pdf" > [36] [37] [38]
 File: figures/2_all.pdf Graphic file (type QTm)
- <use  "figures/2_all.pdf" > [39] [40]
+ <use  "figures/2_all.pdf" >
+[39] [40]
 File: figures/3_all.pdf Graphic file (type QTm)
-
-<use  "figures/3_all.pdf" > [41] [42]
+ <use  "figures/3_all.pdf" > [41] [42] [43]
 File: figures/4_glm_tutorial.pdf Graphic file (type QTm)
- <use  "figures/4_glm_tutorial.pdf" >
-[43] [44] [45]
+
+<use  "figures/4_glm_tutorial.pdf" > [44] [45]
 File: figures/4_filters.pdf Graphic file (type QTm)
  <use  "figures/4_filters.pdf" >
 FPfigure is inserted on page \pageref {FPfigure-2-pos}!
+LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 130.
 
 LaTeX Warning: Reference `6_decoding' on page 46 undefined on input line 130.
 
@@ -1718,15 +1639,6 @@ LaTeX Warning: Float too large for page by 160.86247pt on input line 274.
 
 (./chapters/chapter4.tex
 Chapter 4.
-
-LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
-
-
-LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
-
-
-LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
-
 [75
 
 
@@ -1734,14 +1646,11 @@ LaTeX Warning: Reference `fig:7_cues' on page 75 undefined on input line 11.
 ]
 File: figures/7_cues.pdf Graphic file (type QTm)
  <use  "figures/7_cues.pdf" >
-
-LaTeX Warning: Reference `fig:7_cues' on page 76 undefined on input line 26.
-
 Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;!
 Missing character: There is no ^^99 in font Times New Roman/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;!
-[76]
+ [76]
 File: figures/7_pca_all.pdf Graphic file (type QTm)
  <use  "figures/7_pca_all.pdf" >
 File: figures/7_learning_same_pool.pdf Graphic file (type QTm)
@@ -1766,20 +1675,72 @@ e=DFLT;mapping=tex-text;mapping=tex-text;!
 
  (./chapters/chapter5.tex
 Chapter 5.
+
+Package natbib Warning: Citation `Margolis' on page 84 undefined on input line 
+5.
+
+
+Package natbib Warning: Citation `2012' on page 84 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Peron2015b' on page 84 undefined on input lin
+e 5.
+
+
+Package natbib Warning: Citation `Peters2014b' on page 84 undefined on input li
+ne 5.
+
 [84
 
 
 
-] [85] [86] [87]) [88] [89] (./dissertation.bbl)
+]
+
+Package natbib Warning: Citation `Rokni2007' on page 85 undefined on input line
+ 9.
+
+Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^98 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^99 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^98 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^80 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+Missing character: There is no ^^99 in font Times New Roman/OT:script=latn;lang
+uage=DFLT;mapping=tex-text;mapping=tex-text;!
+
+Package natbib Warning: Citation `(Buonomano2009' on page 85 undefined on input
+ line 9.
+
+[85] [86]
+
+Package natbib Warning: Citation `Harvey2012' on page 87 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Harvey2012' on page 87 undefined on input lin
+e 13.
+
+[87]
+
+Package natbib Warning: Citation `Marder2011' on page 88 undefined on input lin
+e 17.
+
+) [88] [89] (./dissertation.bbl [90
+
+
+
+] [91] [92] [93] [94])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
-[90
-
-
-
-]
+[95]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (./dissertation.aux (./chapters/chapter1.aux) (./chapters/chapter2.aux)
 (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
@@ -1797,18 +1758,17 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  )
-(\end occurred inside a group at level 2)
+(\end occurred inside a group at level 1)
 
-### simple group (level 2) entered at line 53 ({)
 ### semi simple group (level 1) entered at line 137 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28639 strings out of 493706
- 523694 string characters out of 6145769
+ 28799 strings out of 493706
+ 526652 string characters out of 6145769
  610696 words of memory out of 5000000
- 31570 multiletter control sequences out of 15000+600000
+ 31730 multiletter control sequences out of 15000+600000
  10824 words of font info for 101 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,12n,104p,10479b,1900s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,104p,10479b,1975s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (99 pages).
+Output written on dissertation.pdf (104 pages).

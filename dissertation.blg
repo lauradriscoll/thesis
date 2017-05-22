@@ -8,46 +8,54 @@ A level-1 auxiliary file: chapters/chapter4.aux
 A level-1 auxiliary file: chapters/chapter5.aux
 The style file: apalike2.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Abbott2009"
-You've used 1 entry,
+Warning--I didn't find a database entry for "Margolis"
+Warning--I didn't find a database entry for "2012"
+Warning--I didn't find a database entry for "Peron2015b"
+Warning--I didn't find a database entry for "Peters2014b"
+Warning--I didn't find a database entry for "Rokni2007"
+Warning--I didn't find a database entry for "(Buonomano2009"
+Warning--I didn't find a database entry for "Harvey2012"
+Warning--I didn't find a database entry for "Marder2011"
+Warning--empty journal in Kummerer2014
+You've used 53 entries,
             2229 wiz_defined-function locations,
-            527 strings with 4293 characters,
-and the built_in function-call counts, 428 in all, are:
-= -- 41
-> -- 18
-< -- 0
-+ -- 6
-- -- 6
-* -- 39
-:= -- 79
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 8
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 14
-empty$ -- 29
-format.name$ -- 7
-if$ -- 79
-int.to.chr$ -- 1
+            905 strings with 16525 characters,
+and the built_in function-call counts, 25399 in all, are:
+= -- 2391
+> -- 1510
+< -- 12
++ -- 543
+- -- 542
+* -- 2491
+:= -- 4509
+add.period$ -- 158
+call.type$ -- 53
+change.case$ -- 536
+chr.to.int$ -- 52
+cite$ -- 54
+duplicate$ -- 735
+empty$ -- 1503
+format.name$ -- 611
+if$ -- 4738
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 6
+missing$ -- 54
+newline$ -- 267
+num.names$ -- 159
+pop$ -- 432
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 536
 quote$ -- 0
-skip$ -- 11
+skip$ -- 544
 stack$ -- 0
-substring$ -- 31
-swap$ -- 1
+substring$ -- 1719
+swap$ -- 52
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
-while$ -- 4
+type$ -- 316
+warning$ -- 1
+while$ -- 193
 width$ -- 0
-write$ -- 15
-(There was 1 warning)
+write$ -- 685
+(There were 9 warnings)

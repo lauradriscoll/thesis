@@ -1,6 +1,6 @@
 \contentsline {chapter}{Abstract}{iii}{section*.1}
 \contentsline {chapter}{List of figures}{viii}{section*.3}
-\contentsline {chapter}{Acknowledgments}{viii}{section*.5}
+\contentsline {chapter}{Acknowledgments}{ix}{section*.5}
 \contentsline {chapter}{\numberline {1}General introduction and background}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The memory engram and fixed representations in cortex}{3}{section.1.1}
 \contentsline {section}{\numberline {1.2}Synaptic plasticity and dynamic representations in cortex}{4}{section.1.2}
@@ -39,7 +39,7 @@
 \contentsline {subsection}{\numberline {3.2.1}Tracking behavior and neuronal activity over weeks}{34}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Necessity of PPC activity for post-learning performance of the task}{36}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Reorganization of sequential activity across maze locations}{38}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{40}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.4}Different populations of neurons with trial type-specific activity patterns across days}{39}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}Using a generalized linear model to compare relationships between neuronal activity and behavioral features across days}{43}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Changing activity-behavior relationships in single neurons over days}{52}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Consistent statistical features of population activity on each day}{58}{subsection.3.2.7}
@@ -74,4 +74,4 @@
 \contentsline {section}{\numberline {5.2}A strategy For maintaining and updating relevant activity patterns}{85}{section.5.2}
 \contentsline {section}{\numberline {5.3}Balancing stability and flexibility according to role}{87}{section.5.3}
 \contentsline {section}{\numberline {5.4}Stability in the emergent properties of the network}{88}{section.5.4}
-\contentsline {chapter}{References}{90}{chapter*.29}
+\contentsline {chapter}{References}{95}{chapter*.29}

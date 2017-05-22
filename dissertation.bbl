@@ -1,9 +1,331 @@
 \begin{thebibliography}{}
 
+\bibitem[Abbott \& Sussillo, 2009]{Abbott2009}
+Abbott, L. \& Sussillo, D. (2009).
+\newblock {Generating Coherent Patterns of Activity from Chaotic Neural
+  Networks}.
+\newblock {\em Neuron}, 63(4), 544--557.
+
+\bibitem[Ajemian et~al., 2013]{Ajemian2013}
+Ajemian, R., D'Ausilio, A., Moorman, H., \& Bizzi, E. (2013).
+\newblock {A theory for how sensorimotor skills are learned and retained in
+  noisy and nonstationary neural circuits.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 110(52), E5078--87.
+
+\bibitem[Andermann et~al., 2010]{Andermann2010}
+Andermann, M.~L., Kerlin, A.~M., \& Reid, C. (2010).
+\newblock {Chronic cellular imaging of mouse visual cortex during operant
+  behavior and passive viewing}.
+\newblock {\em Frontiers in Cellullar Neuroscience}, 4, 3.
+
+\bibitem[Attardo et~al., 2015]{Attardo2015}
+Attardo, A., Fitzgerald, J.~E., \& Schnitzer, M.~J. (2015).
+\newblock {Impermanence of dendritic spines in live adult CA1 hippocampus.}
+\newblock {\em Nature}, 523(7562), 592--6.
+
+\bibitem[Buonomano, 2005]{Buonomano2005}
+Buonomano, D.~V. (2005).
+\newblock {A learning rule for the emergence of stable dynamics and timing in
+  recurrent networks.}
+\newblock {\em Journal of neurophysiology}, 94(4), 2275--83.
+
+\bibitem[Chestek et~al., 2007]{Chestek2007}
+Chestek, C.~A., Batista, A.~P., Santhanam, G., Yu, B.~M., Afshar, A.,
+  Cunningham, J.~P., Gilja, V., Ryu, S.~I., Churchland, M.~M., \& Shenoy, K.~V.
+  (2007).
+\newblock {Single-neuron stability during repeated reaching in macaque premotor
+  cortex.}
+\newblock {\em The Journal of neuroscience : the official journal of the
+  Society for Neuroscience}, 27(40), 10742--50.
+
+\bibitem[Cromer et~al., 2010]{Cromer2010}
+Cromer, J.~A., Roy, J.~E., \& Miller, E.~K. (2010).
+\newblock {Representation of multiple, independent categories in the primate
+  prefrontal cortex.}
+\newblock {\em Neuron}, 66(5), 796--807.
+
+\bibitem[Darian-Smith \& Gilbert, 1994]{Darian-Smith1994}
+Darian-Smith, C. \& Gilbert, C. (1994).
+\newblock {Axonal sprouting accompanies functional reorganization in adult cat
+  striate cortex.}
+\newblock {\em Nature}.
+
+\bibitem[Ebbinghaus, 1880]{Ebbinghaus1880}
+Ebbinghaus, H. (1880).
+\newblock {\em {Ueber das Gedachtnis}}.
+\newblock Passavia Universitatsverlag, 1983, volume 1 o edition.
+
+\bibitem[Freedman \& Assad, 2016]{Freedman2016}
+Freedman, D.~J. \& Assad, J.~A. (2016).
+\newblock {Neuronal Mechanisms of Visual Categorization: An Abstract View on
+  Decision Making.}
+\newblock {\em Annual review of neuroscience}, 39, 129--47.
+
+\bibitem[Ganguly \& Carmena, 2009]{Ganguly2009}
+Ganguly, K. \& Carmena, J.~M. (2009).
+\newblock {Emergence of a Stable Cortical Map for Neuroprosthetic Control}.
+\newblock {\em PLoS Biology}, 7(7), e1000153.
+
+\bibitem[Gilbert \& Wiesel, 1992]{Gilbert1992}
+Gilbert, C. \& Wiesel, T. (1992).
+\newblock {Receptive field dynamics in adult primary visual cortex}.
+\newblock {\em Nature}.
+
+\bibitem[Gilbert \& Wiesel, 1990]{Gilbert1990}
+Gilbert, C.~D. \& Wiesel, T.~N. (1990).
+\newblock {The influence of contextual stimuli on the orientation selectivity
+  of cells in primary visual cortex of the cat.}
+\newblock {\em Vision research}, 30(11), 1689--701.
+
 \bibitem[Harvey et~al., 2012]{Harvey:2012du}
 Harvey, C.~D., Coen, P., \& Tank, D.~W. (2012).
 \newblock {Choice-specific sequences in parietal cortex during a
   virtual-navigation decision task}.
 \newblock {\em Nature}, 484(7392), 62--68.
+
+\bibitem[Hofer et~al., 2006]{Hofer2006}
+Hofer, S.~B., Mrsic-Flogel, T.~D., Bonhoeffer, T., \& H{\"{u}}bener, M. (2006).
+\newblock {Prior experience enhances plasticity in adult visual cortex}.
+\newblock {\em Nature Neuroscience}, 9(1), 127--132.
+
+\bibitem[Hofer et~al., 2009]{Hofer2009}
+Hofer, S.~B., Mrsic-Flogel, T.~D., Bonhoeffer, T., \& H{\"{u}}bener, M. (2009).
+\newblock {Experience leaves a lasting structural trace in cortical circuits}.
+\newblock {\em Nature}, 457(7227), 313--317.
+
+\bibitem[Huber et~al., 2012]{Huber2012}
+Huber, D., Gutnisky, D.~a., Peron, S., O'Connor, D.~H., Wiegert, J.~S., Tian,
+  L., Oertner, T.~G., Looger, L.~L., \& Svoboda, K. (2012).
+\newblock {Multiple dynamic representations in the motor cortex during
+  sensorimotor learning.}
+\newblock {\em Nature}, 484(7395), 473--8.
+
+\bibitem[Kaas et~al., 1990]{Kaas1990}
+Kaas, J.~H., Krubitzer, L.~A., Chino, Y.~M., Langston, A.~L., Polley, E.~H., \&
+  Blair, N. (1990).
+\newblock {Reorganization of retinotopic cortical maps in adult mammals after
+  lesions of the retina.}
+\newblock {\em Science (New York, N.Y.)}, 248(4952), 229--31.
+
+\bibitem[Kappel et~al., 2015]{Kappel2015}
+Kappel, D., Habenschuss, S., Legenstein, R., \& Maass, W. (2015).
+\newblock {Network Plasticity as Bayesian Inference.}
+\newblock {\em PLoS computational biology}, 11(11), e1004485.
+
+\bibitem[Kentros et~al., 2004]{Kentros2004}
+Kentros, C.~G., Agnihotri, N.~T., Streater, S., Hawkins, R.~D., \& Kandel,
+  E.~R. (2004).
+\newblock {Increased Attention to Spatial Context Increases Both Place Field
+  Stability and Spatial Memory}.
+\newblock {\em Neuron}, 42(2), 283--295.
+
+\bibitem[Komiyama et~al., 2010]{Komiyama2010}
+Komiyama, T., Sato, T.~R., O'Connor, D.~H., Zhang, Y.-X., Huber, D., Hooks,
+  B.~M., Gabitto, M., \& Svoboda, K. (2010).
+\newblock {Learning-related fine-scale specificity imaged in motor cortex
+  circuits of behaving mice.}
+\newblock {\em Nature}, 464(7292), 1182--1186.
+
+\bibitem[K{\"{u}}mmerer et~al., 2014]{Kummerer2014}
+K{\"{u}}mmerer, M., Theis, L., \& Bethge, M. (2014).
+\newblock {Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained
+  on ImageNet}.
+
+\bibitem[LeCun et~al., 2015]{LeCun2015}
+LeCun, Y., Bengio, Y., \& Hinton, G. (2015).
+\newblock {Deep learning.}
+\newblock {\em Nature}, 521(7553), 436--44.
+
+\bibitem[Liberti et~al., 2016]{Liberti2016}
+Liberti, W.~A., Markowitz, J.~E., Perkins, L.~N., Liberti, D.~C., Leman, D.~P.,
+  Guitchounts, G., Velho, T., Kotton, D.~N., Lois, C., \& Gardner, T.~J.
+  (2016).
+\newblock {Unstable neurons underlie a stable learned behavior.}
+\newblock {\em Nature neuroscience}, advance on.
+
+\bibitem[Mank et~al., 2008]{Mank2008}
+Mank, M., Santos, A.~F., Direnberger, S., Mrsic-Flogel, T.~D., Hofer, S.~B.,
+  Stein, V., Hendel, T., Reiff, D.~F., Levelt, C., Borst, A., Bonhoeffer, T.,
+  H{\"{u}}bener, M., \& Griesbeck, O. (2008).
+\newblock {A genetically encoded calcium indicator for chronic in vivo
+  two-photon imaging.}
+\newblock {\em Nature methods}, 5(9), 805--811.
+
+\bibitem[Margolis et~al., 2012]{Margolis2012}
+Margolis, D.~J., L{\"{u}}tcke, H., Schulz, K., Haiss, F., Weber, B.,
+  K{\"{u}}gler, S., Hasan, M.~T., \& Helmchen, F. (2012).
+\newblock {Reorganization of cortical population activity imaged throughout
+  long-term sensory deprivation}.
+\newblock {\em Nature Neuroscience}, 15(11), 1539--1546.
+
+\bibitem[McNaughton et~al., 1994]{McNaughton1994}
+McNaughton, B.~L., Mizumori, S. J.~Y., Barnes, C.~A., Leonard, B.~J., Marquis,
+  M., \& Green, E.~J. (1994).
+\newblock {Cortical Representation of Motion during Unrestrained Spatial
+  Navigation in the Rat}.
+\newblock {\em Cerebral Cortex}, 4(1), 27--39.
+
+\bibitem[Merzenich et~al., 1984]{Merzenich1984}
+Merzenich, M.~M., Nelson, R.~J., Stryker, M.~P., Cynader, M.~S., Schoppmann,
+  A., \& Zook, J.~M. (1984).
+\newblock {Somatosensory cortical map changes following digit amputation in
+  adult monkeys}.
+\newblock {\em The Journal of Comparative Neurology}, 224(4), 591--605.
+
+\bibitem[Messinger et~al., 2001]{Messinger2001}
+Messinger, A., Squire, L.~R., Zola, S.~M., \& Albright, T.~D. (2001).
+\newblock {Neuronal representations of stimulus associations develop in the
+  temporal lobe during learning.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 98(21), 12239--44.
+
+\bibitem[Nitz, 2006]{Nitz2006}
+Nitz, D.~A. (2006).
+\newblock {Tracking Route Progression in the Posterior Parietal Cortex}.
+\newblock {\em Neuron}, 49(5), 747--756.
+
+\bibitem[Oh et~al., 2014]{Oh2014}
+Oh, S.~W., Harris, J.~A., Ng, L., Winslow, B., Cain, N., Mihalas, S., Wang, Q.,
+  Lau, C., Kuan, L., Henry, A.~M., Mortrud, M.~T., Ouellette, B., Nguyen,
+  T.~N., Sorensen, S.~A., Slaughterbeck, C.~R., Wakeman, W., Li, Y., Feng, D.,
+  Ho, A., Nicholas, E., Hirokawa, K.~E., Bohn, P., Joines, K.~M., Peng, H.,
+  Hawrylycz, M.~J., Phillips, J.~W., Hohmann, J.~G., Wohnoutka, P., Gerfen,
+  C.~R., Koch, C., Bernard, A., Dang, C., Jones, A.~R., \& Zeng, H. (2014).
+\newblock {A mesoscale connectome of the mouse brain}.
+\newblock {\em Nature}, 508(7495), 207--214.
+
+\bibitem[O'Leary et~al., 2014]{OLeary2014}
+O'Leary, T., Williams, A., Franci, A., \& Marder, E. (2014).
+\newblock {Cell Types, Network Homeostasis, and Pathological Compensation from
+  a Biologically Plausible Ion Channel Expression Model}.
+\newblock {\em Neuron}, 82(4), 809--821.
+
+\bibitem[Padoa-Schioppa et~al., 2004]{Padoa-Schioppa2004}
+Padoa-Schioppa, C., Li, C.-S.~R., \& Bizzi, E. (2004).
+\newblock {Neuronal activity in the supplementary motor area of monkeys
+  adapting to a new dynamic environment.}
+\newblock {\em Journal of neurophysiology}, 91(1), 449--73.
+
+\bibitem[Peron et~al., 2015a]{Peron2015a}
+Peron, S., Chen, T.-W., \& Svoboda, K. (2015a).
+\newblock {Comprehensive imaging of cortical networks}.
+\newblock {\em Current Opinion in Neurobiology}, 32, 115--123.
+
+\bibitem[Peron et~al., 2015b]{Peron2015}
+Peron, S., Freeman, J., Iyer, V., Guo, C., \& Svoboda, K. (2015b).
+\newblock {A Cellular Resolution Map of Barrel Cortex Activity during Tactile
+  Behavior}.
+\newblock {\em Neuron}.
+
+\bibitem[Peters et~al., 2014]{Peters2014}
+Peters, A.~J., Chen, S.~X., \& Komiyama, T. (2014).
+\newblock {Emergence of reproducible spatiotemporal activity during motor
+  learning.}
+\newblock {\em Nature}, 510(7504), 263--7.
+
+\bibitem[Poort et~al., 2015]{Poort2015}
+Poort, J., Khan, A.~G., Pachitariu, M., Nemri, A., Orsolic, I., Krupic, J.,
+  Bauza, M., Sahani, M., Keller, G.~B., Mrsic-Flogel, T.~D., \& Hofer, S.~B.
+  (2015).
+\newblock {Learning Enhances Sensory and Multiple Non-sensory Representations
+  in Primary Visual Cortex.}
+\newblock {\em Neuron}, 86(6), 1478--90.
+
+\bibitem[Prinz et~al., 2004]{Prinz2004}
+Prinz, A.~A., Bucher, D., \& Marder, E. (2004).
+\newblock {Similar network activity from disparate circuit parameters}.
+\newblock {\em Nature Neuroscience}, 7(12), 1345--1352.
+
+\bibitem[Raposo et~al., 2014]{Raposo2014}
+Raposo, D., Kaufman, M.~T., \& Churchland, A.~K. (2014).
+\newblock {A category-free neural population supports evolving demands during
+  decision-making.}
+\newblock {\em Nature neuroscience}, 17(12), 1784--92.
+
+\bibitem[Rigotti et~al., 2013]{Rigotti2013}
+Rigotti, M., Barak, O., Warden, M.~R., Wang, X.-J., Daw, N.~D., Miller, E.~K.,
+  \& Fusi, S. (2013).
+\newblock {The importance of mixed selectivity in complex cognitive tasks}.
+\newblock {\em Nature}, 497(7451), 585--590.
+
+\bibitem[Robertson \& Irvine, 1989]{Robertson1989}
+Robertson, D. \& Irvine, D. R.~F. (1989).
+\newblock {Plasticity of frequency organization in auditory cortex of guinea
+  pigs with partial unilateral deafness}.
+\newblock {\em The Journal of Comparative Neurology}, 282(3), 456--471.
+
+\bibitem[Rokni et~al., 2007]{Rokni2007a}
+Rokni, U., Richardson, A.~G., Bizzi, E., \& Seung, H.~S. (2007).
+\newblock {Motor Learning with Unstable Neural Representations}.
+\newblock {\em Neuron}, 54(4), 653--666.
+
+\bibitem[Rose et~al., 2016]{Rose2016}
+Rose, T., Jaepel, J., H{\"{u}}bener, M., \& Bonhoeffer, T. (2016).
+\newblock {Cell-specific restoration of stimulus preference after monocular
+  deprivation in the visual cortex}.
+\newblock {\em Science}, 352(6291).
+
+\bibitem[Sakai \& Miyashita, 1991]{Sakai1991}
+Sakai, K. \& Miyashita, Y. (1991).
+\newblock {Neural organization for the long-term memory of paired associates.}
+\newblock {\em Nature}, 354(6349), 152--5.
+
+\bibitem[Stettler et~al., 2006]{Stettler2006}
+Stettler, D.~D., Yamahachi, H., Li, W., Denk, W., \& Gilbert, C.~D. (2006).
+\newblock {Axons and synaptic boutons are highly dynamic in adult visual
+  cortex.}
+\newblock {\em Neuron}, 49(6), 877--87.
+
+\bibitem[Stevenson et~al., 2011]{Stevenson2011}
+Stevenson, I.~H., Cherian, A., London, B.~M., Sachs, N.~A., Lindberg, E.,
+  Reimer, J., Slutzky, M.~W., Hatsopoulos, N.~G., Miller, L.~E., \& Kording,
+  K.~P. (2011).
+\newblock {Statistical assessment of the stability of neural movement
+  representations}.
+\newblock {\em Journal of Neurophysiology}, 106(2).
+
+\bibitem[Tolias et~al., 2007]{Tolias2007}
+Tolias, A.~S., Ecker, A.~S., Siapas, A.~G., Hoenselaar, A., Keliris, G.~A., \&
+  Logothetis, N.~K. (2007).
+\newblock {Recording Chronically From the Same Neurons in Awake, Behaving
+  Primates}.
+\newblock {\em Journal of Neurophysiology}, 98(6), 3780--3790.
+
+\bibitem[Tonegawa et~al., 2015]{Tonegawa2015}
+Tonegawa, S., Liu, X., Ramirez, S., \& Redondo, R. (2015).
+\newblock {Memory Engram Cells Have Come of Age}.
+\newblock {\em Neuron}, 87(5), 918--931.
+
+\bibitem[Trachtenberg et~al., 2002]{Trachtenberg2002}
+Trachtenberg, J.~T., Chen, B.~E., Knott, G.~W., Feng, G., Sanes, J.~R., Welker,
+  E., \& Svoboda, K. (2002).
+\newblock {Long-term in vivo imaging of experience-dependent synaptic
+  plasticity in adult cortex.}
+\newblock {\em Nature}, 420(6917), 788--794.
+
+\bibitem[Veit et~al., 2015]{Veit2015}
+Veit, L., Pidpruzhnykova, G., \& Nieder, A. (2015).
+\newblock {Associative learning rapidly establishes neuronal representations of
+  upcoming behavioral choices in crows.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 112(49), 15208--13.
+
+\bibitem[Whitlock et~al., 2012]{Whitlock2012}
+Whitlock, J.~R., Pfuhl, G., Dagslott, N., Moser, M.-B., \& Moser, E.~I. (2012).
+\newblock {Functional Split between Parietal and Entorhinal Cortices in the
+  Rat}.
+\newblock {\em Neuron}, 73(4), 789--802.
+
+\bibitem[Yuste, 2015]{Yuste2015}
+Yuste, R. (2015).
+\newblock {From the neuron doctrine to neural networks}.
+\newblock {\em Nature Reviews Neuroscience}, 16(8), 487--497.
+
+\bibitem[Ziv et~al., 2013]{Ziv2013}
+Ziv, Y., Burns, L.~D., Cocker, E.~D., Hamel, E.~O., Ghosh, K.~K., Kitch, L.~J.,
+  {El Gamal}, A., \& Schnitzer, M.~J. (2013).
+\newblock {Long-term dynamics of CA1 hippocampal place codes.}
+\newblock {\em Nature neuroscience}, 16(3), 264--6.
 
 \end{thebibliography}
