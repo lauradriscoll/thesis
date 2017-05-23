@@ -84,7 +84,7 @@ Alternatively, the timescales over which learning occurs could vary across studi
 
 All of these measures for learning are likely dependent on task design and the brain region of interest. With newly available recording methods for tracking populations of cells over learning and over the course of stable behavior, it will be important to compare these measures across brain regions and across tasks.
 
-\section{Methods}
+\section{Data analysis methods}
 
 \subsection{Dimensionality reduction of neuronal and behavioral data}
 We reduced the dimensionality of single trial data into a space that captured the most variance across trial types and epochs of the trial. We performed principal component analysis (PCA) on averaged population responses across these different conditions. We constructed a data matrix X of size $N_{neurons}$ $\times$ $N_{conditions}$, in which columns corresponded to spatially binned z-scored population response vectors for a given segment of the trial (Figure \ref{fig:7_pca_all} a). The principal components (PCs) of this data matrix were vectors $v_a$ of length $N_{neurons}$ indexed by the number of PCs. For visualization, we then projected single trial data onto the first 3 PCs. 

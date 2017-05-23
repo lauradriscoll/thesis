@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[CCF, 2015]{CCF2015}
+ (2015).
+\newblock {\em {The Allen Mouse Common Coordinate Framework}}.
+\newblock Technical report, Allen Institute for Brain Science.
+
 \bibitem[Abbott \& Sussillo, 2009]{Abbott2009}
 Abbott, L. \& Sussillo, D. (2009).
 \newblock {Generating Coherent Patterns of Activity from Chaotic Neural
@@ -91,11 +96,6 @@ Chestek, C.~A., Batista, A.~P., Santhanam, G., Yu, B.~M., Afshar, A.,
 \newblock {\em The Journal of neuroscience : the official journal of the
   Society for Neuroscience}, 27(40), 10742--50.
 
-\bibitem[Constantinidis, 2006]{Constantinidis2006}
-Constantinidis, C. (2006).
-\newblock {Posterior parietal mechanisms of visual attention.}
-\newblock {\em Reviews in the Neurosciences}, 17(4), 415--427.
-
 \bibitem[Constantinidis et~al., 2004]{Constantinidis2004}
 Constantinidis, C., Forest, W., Carolina, N., Inserm, U., \&
   F{\'{e}}d{\'{e}}ratif, I. (2004).
@@ -107,6 +107,11 @@ Constantinidis, C. \& Steinmetz, M.~A. (1996).
 \newblock {Neuronal activity in posterior parietal area 7a during the delay
   periods of a spatial memory task}.
 \newblock {\em Journal of Neurophysiology}, 76(2), 1352--1355.
+
+\bibitem[Cossart et~al., 2005]{Cossart2005}
+Cossart, R., Ikegaya, Y., \& Yuste, R. (2005).
+\newblock {Calcium imaging of cortical networks dynamics}.
+\newblock {\em Cell Calcium}, 37(5), 451--457.
 
 \bibitem[Cromer et~al., 2010]{Cromer2010}
 Cromer, J.~A., Roy, J.~E., \& Miller, E.~K. (2010).
@@ -124,6 +129,11 @@ Darian-Smith, C. \& Gilbert, C. (1994).
 Denk, W., Strickler, J.~H., \& Webb, W.~W. (1990).
 \newblock {Two-photon laser scanning fluorescence microscopy.}
 \newblock {\em Science (New York, N.Y.)}, 248(4951), 73--6.
+
+\bibitem[Ding et~al., 2014]{Ding2014}
+Ding, J., Luo, A.~F., Hu, L., Wang, D., \& Shao, F. (2014).
+\newblock {Structural basis of the ultrasensitive calcium indicator GCaMP6}.
+\newblock {\em Science China Life Sciences}, 57(3), 269--274.
 
 \bibitem[Dombeck et~al., 2010]{Dombeck2010}
 Dombeck, D.~A., Harvey, C.~D., Tian, L., Looger, L.~L., \& Tank, D.~W. (2010).
@@ -216,6 +226,11 @@ Greenberg, D.~S. \& Kerr, J. N.~D. (2009).
 \newblock {Automated correction of fast motion artifacts for two-photon imaging
   of awake animals}.
 \newblock {\em Journal of Neuroscience Methods}, 176(1), 1--15.
+
+\bibitem[Grienberger \& Konnerth, 2012]{Grienberger2012}
+Grienberger, C. \& Konnerth, A. (2012).
+\newblock {Imaging Calcium in Neurons}.
+\newblock {\em Neuron}, 73(5), 862--885.
 
 \bibitem[Haaland et~al., 2000]{Haaland2000}
 Haaland, K.~Y., Harrington, D.~L., \& Knight, R.~T. (2000).

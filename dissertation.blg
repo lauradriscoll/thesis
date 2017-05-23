@@ -8,50 +8,50 @@ A level-1 auxiliary file: chapters/chapter4.aux
 A level-1 auxiliary file: chapters/chapter5.aux
 The style file: apalike2.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "CCF2015"
-Warning--I didn't find a database entry for "Sereno"
+Warning--to sort, need author or key in CCF2015
+Warning--empty author in CCF2015
 Warning--empty journal in Kummerer2014
 Warning--there's a number but no volume in Marder2011
 Warning--empty journal in Yu2016
-You've used 106 entries,
+You've used 109 entries,
             2229 wiz_defined-function locations,
-            1242 strings with 28215 characters,
-and the built_in function-call counts, 49305 in all, are:
-= -- 4732
-> -- 2686
+            1255 strings with 28439 characters,
+and the built_in function-call counts, 50491 in all, are:
+= -- 4848
+> -- 2738
 < -- 33
-+ -- 951
-- -- 950
-* -- 4777
-:= -- 8660
-add.period$ -- 316
-call.type$ -- 106
-change.case$ -- 1005
-chr.to.int$ -- 105
-cite$ -- 109
-duplicate$ -- 1487
-empty$ -- 3053
-format.name$ -- 1106
-if$ -- 9284
++ -- 969
+- -- 968
+* -- 4894
+:= -- 8862
+add.period$ -- 325
+call.type$ -- 109
+change.case$ -- 1029
+chr.to.int$ -- 108
+cite$ -- 115
+duplicate$ -- 1527
+empty$ -- 3134
+format.name$ -- 1128
+if$ -- 9509
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 107
-newline$ -- 531
-num.names$ -- 318
-pop$ -- 785
+missing$ -- 109
+newline$ -- 546
+num.names$ -- 324
+pop$ -- 805
 preamble$ -- 1
-purify$ -- 1005
+purify$ -- 1029
 quote$ -- 0
-skip$ -- 1110
+skip$ -- 1137
 stack$ -- 0
-substring$ -- 3564
-swap$ -- 117
+substring$ -- 3651
+swap$ -- 120
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 634
-warning$ -- 3
-while$ -- 397
+type$ -- 652
+warning$ -- 5
+while$ -- 405
 width$ -- 0
-write$ -- 1370
+write$ -- 1408
 (There were 5 warnings)
