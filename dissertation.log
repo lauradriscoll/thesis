@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  23 MAY 2017 17:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  24 MAY 2017 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1493,12 +1493,12 @@ Chapter 1.
 [1
 
 
-] [2] [3] [4] [5] [6]) [7] [8]
+] [2] [3] [4] [5] [6] [7]) [8] [9]
 \openout2 = `chapters/chapter2.aux'.
 
  (./chapters/chapter2.tex
 Chapter 2.
-[9
+[10
 
 
 
@@ -1511,7 +1511,7 @@ LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 11.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 11.
- [10] [11] [12] [13] [14] [15] [16] [17]
+ [11] [12] [13] [14] [15] [16] [17] [18]
 File: figures/widefield.pdf Graphic file (type QTm)
  <use  "figures/widefield.pdf" >
 LaTeX Font Info:    Font shape `EU1/Arial(3)/bx/n' will be
@@ -1523,7 +1523,7 @@ LaTeX Font Info:    Font shape `EU1/Arial(3)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/Arial(3)/m/n' will be
 (Font)              scaled to size 8.62518pt on input line 52.
 
-[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+[19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
 File: figures/cell_selection.pdf Graphic file (type QTm)
 
 <use  "figures/cell_selection.pdf" >
@@ -1552,12 +1552,12 @@ Overfull \hbox (3.0pt too wide) in paragraph at lines 155--155
 [][][][] 
  []
 
-[31] [32])
+[32] [33])
 \openout2 = `chapters/chapter3.aux'.
 
  (./chapters/chapter3.tex
 Chapter 3.
-[33
+[34
 
 
 
@@ -1565,18 +1565,18 @@ Chapter 3.
 
 ]
 File: figures/1_w_out_inact.pdf Graphic file (type QTm)
- <use  "figures/1_w_out_inact.pdf" > [34] [35] [36]
+ <use  "figures/1_w_out_inact.pdf" > [35] [36] [37]
 File: figures/1_seq_inact.pdf Graphic file (type QTm)
 
-<use  "figures/1_seq_inact.pdf" > [37] [38] [39] [40]
+<use  "figures/1_seq_inact.pdf" > [38] [39] [40] [41]
 File: figures/2_all.pdf Graphic file (type QTm)
 
-<use  "figures/2_all.pdf" > [41] [42]
+<use  "figures/2_all.pdf" > [42] [43]
 File: figures/3_all.pdf Graphic file (type QTm)
- <use  "figures/3_all.pdf" > [43] [44]
+ <use  "figures/3_all.pdf" > [44] [45]
 File: figures/4_glm_tutorial.pdf Graphic file (type QTm)
 
-<use  "figures/4_glm_tutorial.pdf" > [45] [46] [47]
+<use  "figures/4_glm_tutorial.pdf" > [46] [47] [48]
 File: figures/4_filters.pdf Graphic file (type QTm)
 
 <use  "figures/4_filters.pdf" >
@@ -1586,12 +1586,12 @@ Overfull \hbox (3.0pt too wide) in paragraph at lines 130--130
 [][][][] 
  []
 
-[48] [49]
+[49] [50]
 File: figures/4_glm_fits.pdf Graphic file (type QTm)
- <use  "figures/4_glm_fits.pdf" > [50
+ <use  "figures/4_glm_fits.pdf" > [51
 
 
-] [51]
+] [52]
 File: figures/4_glm_across_design.pdf Graphic file (type QTm)
 
 <use  "figures/4_glm_across_design.pdf" >
@@ -1600,67 +1600,67 @@ File: figures/4_distribution_filters.pdf Graphic file (type QTm)
 <use  "figures/4_distribution_filters.pdf" >
 File: figures/4_glm_model_comparison.pdf Graphic file (type QTm)
 
-<use  "figures/4_glm_model_comparison.pdf" > [52] [53] [54]
+<use  "figures/4_glm_model_comparison.pdf" > [53] [54] [55]
 File: figures/4_glm_across_population.pdf Graphic file (type QTm)
 
-<use  "figures/4_glm_across_population.pdf" > [55] [56]
+<use  "figures/4_glm_across_population.pdf" > [56] [57]
 File: figures/glm_quant_stability.pdf Graphic file (type QTm)
 
-<use  "figures/glm_quant_stability.pdf" > [57] [58] [59]
+<use  "figures/glm_quant_stability.pdf" > [58] [59] [60]
 File: figures/behave_controls.pdf Graphic file (type QTm)
 
-<use  "figures/behave_controls.pdf" > [60]
+<use  "figures/behave_controls.pdf" > [61]
 File: figures/5_set_point.pdf Graphic file (type QTm)
  <use  "figures/5_set_point.pdf" >
-[61] [62]
+[62] [63]
 File: figures/6_decoding_unstable_stable_7bins_small.pdf Graphic file (type QTm
 )
- <use  "figures/6_decoding_unstable_stable_7bins_small.pdf" > [63]
-[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]) [75] [76]
+ <use  "figures/6_decoding_unstable_stable_7bins_small.pdf" > [64]
+[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]) [78] [79]
 \openout2 = `chapters/chapter4.aux'.
 
 
 (./chapters/chapter4.tex
 Chapter 4.
-[77
+[80
 
 
 
 ]
 File: figures/7_cues.pdf Graphic file (type QTm)
- <use  "figures/7_cues.pdf" > [78]
+ <use  "figures/7_cues.pdf" > [81]
 File: figures/7_pca_all.pdf Graphic file (type QTm)
- <use  "figures/7_pca_all.pdf" >
+ <use  "figures/7_pca_all.pdf" > [82]
 File: figures/7_rate.pdf Graphic file (type QTm)
 
 <use  "figures/7_rate.pdf" >
 
-LaTeX Warning: Reference `figures/7_learning_same_pool' on page 79 undefined on
+LaTeX Warning: Reference `figures/7_learning_same_pool' on page 83 undefined on
  input line 48.
 
-[79]
 File: figures/7_learning_same_pool.pdf Graphic file (type QTm)
- <use  "figures/7_learning_same_pool.pdf" > [80] [81] [82] [83] [84])
-[85] [86]
+<use  "figures/7_learning_same_pool.pdf" > [83] [84] [85] [86] [87] [88])
+[89]
 \openout2 = `chapters/chapter5.aux'.
 
  (./chapters/chapter5.tex
 Chapter 5.
-[87
+[90
 
 
 
-] [88] [89] [90]) [91] [92] (./dissertation.bbl [93
+] [91] [92] [93]) [94] [95] (./dissertation.bbl [96
 
 
 
-] [94] [95] [96] [97]
-[98] [99] [100] [101] [102])
+] [97] [98] [99] [100]
+[101] [102] [103] [104] [105] [106])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
- [103]
+ [107]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
- (./dissertation.aux (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./cha
-pters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
+ (./dissertation.aux
+(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux)
+(./chapters/chapter4.aux) (./chapters/chapter5.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 39.
 
@@ -1680,12 +1680,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
 ### semi simple group (level 1) entered at line 137 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28962 strings out of 493706
- 529653 string characters out of 6145769
- 613438 words of memory out of 5000000
- 31893 multiletter control sequences out of 15000+600000
+ 28986 strings out of 493706
+ 530073 string characters out of 6145769
+ 613717 words of memory out of 5000000
+ 31917 multiletter control sequences out of 15000+600000
  10816 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,12n,104p,10479b,2078s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,104p,10479b,2102s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (114 pages).
+Output written on dissertation.pdf (118 pages).

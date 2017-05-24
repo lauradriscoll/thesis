@@ -68,6 +68,11 @@ Bisley, J.~W. \& Goldberg, M.~E. (2010).
 \newblock {Attention, intention, and priority in the parietal lobe.}
 \newblock {\em Annual review of neuroscience}, 33, 1--21.
 
+\bibitem[Bredt \& Nicoll, 2003]{Bredt2003}
+Bredt, D.~S. \& Nicoll, R.~A. (2003).
+\newblock {AMPA Receptor Trafficking at Excitatory Synapses}.
+\newblock {\em Neuron}, 40(2), 361--379.
+
 \bibitem[Buonomano, 2005]{Buonomano2005}
 Buonomano, D.~V. (2005).
 \newblock {A learning rule for the emergence of stable dynamics and timing in
@@ -152,6 +157,11 @@ Dorand, R.~D., Barkauskas, D.~S., Evans, T.~A., Petrosiute, A., \& Huang, A.~Y.
 Ebbinghaus, H. (1880).
 \newblock {\em {Ueber das Gedachtnis}}.
 \newblock Passavia Universitatsverlag, 1983, volume 1 o edition.
+
+\bibitem[Foster et~al., 1993]{Foster1993}
+Foster, W.~R., Ungar, L.~H., \& Schwaber, J.~S. (1993).
+\newblock {Significance of conductances in Hodgkin-Huxley models.}
+\newblock {\em Journal of neurophysiology}, 70(6), 2502--18.
 
 \bibitem[Freedman \& Assad, 2006]{Freedman2006}
 Freedman, D.~J. \& Assad, J.~A. (2006).
@@ -243,6 +253,11 @@ Hamel, E., Grewe, B., Parker, J., \& Schnitzer, M. (2015).
   Approach}.
 \newblock {\em Neuron}, 86(1), 140--159.
 
+\bibitem[Hanus \& Schuman, 2013]{Hanus2013}
+Hanus, C. \& Schuman, E. (2013).
+\newblock {Proteostasis in complex dendrites}.
+\newblock {\em Nature Reviews Neuroscience}.
+
 \bibitem[Harvey et~al., 2012]{Harvey:2012du}
 Harvey, C.~D., Coen, P., \& Tank, D.~W. (2012).
 \newblock {Choice-specific sequences in parietal cortex during a
@@ -289,6 +304,13 @@ Kalatsky, V.~A. \& Stryker, M.~P. (2003).
 Kappel, D., Habenschuss, S., Legenstein, R., \& Maass, W. (2015).
 \newblock {Network Plasticity as Bayesian Inference.}
 \newblock {\em PLoS computational biology}, 11(11), e1004485.
+
+\bibitem[Keck et~al., 2013]{Keck2013}
+Keck, T., Keller, G., Jacobsen, R., Eysel, U., Bonhoeffer, T., \&
+  H{\"{u}}bener, M. (2013).
+\newblock {Synaptic Scaling and Homeostatic Plasticity in the Mouse Visual
+  Cortex In Vivo}.
+\newblock {\em Neuron}, 80(2), 327--334.
 
 \bibitem[Kentros et~al., 2004]{Kentros2004}
 Kentros, C.~G., Agnihotri, N.~T., Streater, S., Hawkins, R.~D., \& Kandel,
@@ -347,6 +369,12 @@ Marder, E. (2011).
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, (Supplement 3), 15542--8.
 
+\bibitem[Marder \& Goaillard, 2006]{Marder2006}
+Marder, E. \& Goaillard, J.-M. (2006).
+\newblock {Variability, compensation and homeostasis in neuron and network
+  function}.
+\newblock {\em Nature Reviews Neuroscience}, 7(7), 563--574.
+
 \bibitem[Margolis et~al., 2012]{Margolis2012}
 Margolis, D.~J., L{\"{u}}tcke, H., Schulz, K., Haiss, F., Weber, B.,
   K{\"{u}}gler, S., Hasan, M.~T., \& Helmchen, F. (2012).
@@ -379,6 +407,13 @@ Messinger, A., Squire, L.~R., Zola, S.~M., \& Albright, T.~D. (2001).
   temporal lobe during learning.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 98(21), 12239--44.
+
+\bibitem[Monier et~al., 2003]{Monier2003}
+Monier, C., Chavane, F., Baudot, P., Graham, L.~J., \& Fr{\'{e}}gnac, Y.
+  (2003).
+\newblock {Orientation and Direction Selectivity of Synaptic Inputs in Visual
+  Cortical Neurons: A Diversity of Combinations Produces Spike Tuning}.
+\newblock {\em Neuron}, 37(4), 663--680.
 
 \bibitem[Morcos \& Harvey, 2016]{Morcos2016}
 Morcos, A.~S. \& Harvey, C.~D. (2016).
@@ -524,6 +559,12 @@ Sakai, K. \& Miyashita, Y. (1991).
 \newblock {Neural organization for the long-term memory of paired associates.}
 \newblock {\em Nature}, 354(6349), 152--5.
 
+\bibitem[Schulz et~al., 2006]{Schulz2006}
+Schulz, D.~J., Goaillard, J.-M., \& Marder, E. (2006).
+\newblock {Variable channel expression in identified single and electrically
+  coupled neurons in different animals}.
+\newblock {\em Nature Neuroscience}, 9(3), 356--362.
+
 \bibitem[Seal, 1989]{Seal1989}
 Seal, J. (1989).
 \newblock {Sensory and motor functions of the superior parietal cortex of the
@@ -555,6 +596,11 @@ Stricanne, B., Andersen, R.~A., \& Mazzoni, P. (1996).
 \newblock {Eye-centered, head-centered, and intermediate coding of remembered
   sound locations in area LIP.}
 \newblock {\em Journal of Neurophysiology}, 76(3), 2071--2076.
+
+\bibitem[Taylor et~al., 2006]{Taylor2006}
+Taylor, A.~L., Hickey, T.~J., Prinz, A.~A., \& Marder, E. (2006).
+\newblock {Structure and Visualization of High-Dimensional Conductance Spaces}.
+\newblock {\em Journal of Neurophysiology}, 96(2), 891--905.
 
 \bibitem[Theer et~al., 2003]{Theer2003}
 Theer, P., Hasan, M.~T., \& Denk, W. (2003).
