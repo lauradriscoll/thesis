@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  24 MAY 2017 20:24
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 JUN 2017 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1446,9 +1446,9 @@ LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 12.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
 (Font)              scaled to size 14.4pt on input line 12.
- (./frontmatter/abstract.tex [3
+ (./frontmatter/abstract.tex) [3
 
-]) [4]
+]
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 12.
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
@@ -1468,23 +1468,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/bx/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
- [5
+ [4
 
-] [6])
+] [5])
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
 
-[7] [8] (./dissertation.lof)
+[6] [7] (./dissertation.lof)
 \tf@lof=\write4
 \openout4 = `dissertation.lof'.
 
- [9
+ [8
 
 
-] [10] (./frontmatter/thanks.tex) [11
+] [9] (./frontmatter/thanks.tex) [10
 
-]
+] [11]
 \openout2 = `chapters/chapter1.aux'.
 
 
@@ -1692,6 +1692,6 @@ Here is how much of TeX's memory you used:
  31920 multiletter control sequences out of 15000+600000
  10816 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,12n,104p,10479b,2100s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,104p,10479b,2099s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dissertation.pdf (117 pages).
