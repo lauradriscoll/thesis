@@ -10,48 +10,46 @@ The style file: apalike2.bst
 Database file #1: references.bib
 Warning--to sort, need author or key in CCF2015
 Warning--empty author in CCF2015
-Warning--empty journal in Kummerer2014
 Warning--there's a number but no volume in Marder2011
-Warning--empty journal in Yu2016
 You've used 118 entries,
             2229 wiz_defined-function locations,
-            1305 strings with 30061 characters,
-and the built_in function-call counts, 54645 in all, are:
-= -- 5251
-> -- 2955
-< -- 36
-+ -- 1045
-- -- 1044
-* -- 5296
-:= -- 9587
-add.period$ -- 352
+            1319 strings with 30325 characters,
+and the built_in function-call counts, 55097 in all, are:
+= -- 5305
+> -- 2960
+< -- 37
++ -- 1051
+- -- 1046
+* -- 5364
+:= -- 9642
+add.period$ -- 354
 call.type$ -- 118
 change.case$ -- 1112
 chr.to.int$ -- 117
-cite$ -- 124
-duplicate$ -- 1652
-empty$ -- 3397
-format.name$ -- 1219
-if$ -- 10294
+cite$ -- 122
+duplicate$ -- 1657
+empty$ -- 3442
+format.name$ -- 1223
+if$ -- 10390
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 118
-newline$ -- 591
+missing$ -- 117
+newline$ -- 593
 num.names$ -- 351
-pop$ -- 869
+pop$ -- 850
 preamble$ -- 1
 purify$ -- 1112
 quote$ -- 0
-skip$ -- 1230
+skip$ -- 1233
 stack$ -- 0
-substring$ -- 3968
-swap$ -- 129
+substring$ -- 4074
+swap$ -- 131
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 706
-warning$ -- 5
-while$ -- 439
+type$ -- 708
+warning$ -- 3
+while$ -- 448
 width$ -- 0
-write$ -- 1524
-(There were 5 warnings)
+write$ -- 1533
+(There were 3 warnings)

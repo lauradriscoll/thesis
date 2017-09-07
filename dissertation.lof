@@ -1,27 +1,29 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces PPC relative to retinotopic maps}}{20}{figure.caption.7}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Cell identification protocol across days and number of samples for various day comparisons.}}{32}{figure.caption.8}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces (Continued)\relax }}{33}{figure.caption.9}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces PPC relative to retinotopic maps}}{21}{figure.caption.7}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cell identification protocol across days and number of samples for various day comparisons.}}{33}{figure.caption.8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces (Continued)\relax }}{34}{figure.caption.9}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Chronic imaging during stable performance of a virtual-navigation decision task.}}{37}{figure.caption.10}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Neuronal population dynamics and inactivation experiments.}}{39}{figure.caption.11}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Reorganization of activity within a trial across days.}}{43}{figure.caption.12}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Reorganization of information about trial-type across days}}{45}{figure.caption.13}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces GLM fitting procedure}}{47}{figure.caption.14}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Basis functions for encoding model.}}{48}{figure.caption.15}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces (Continued)\relax }}{49}{figure.caption.16}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Fitting activity-behavior relationships with a generalized linear model.}}{51}{figure.caption.17}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Fitting activity-behavior relationships with a generalized linear model.}}{53}{figure.caption.18}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Behavioral features were variable but had overlapping distributions across days}}{54}{figure.caption.19}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Model comparison across days.}}{54}{figure.caption.20}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Quantification of consistent, lost and gained activity-behavior relationships.}}{56}{figure.caption.21}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Distribution in the rate of change across cells in the population.}}{59}{figure.caption.22}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Behavioral change across days does not explain neuronal change.}}{60}{figure.caption.23}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Stable statistical features of population activity.}}{62}{figure.caption.24}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Decoding task information across days.}}{64}{figure.caption.25}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Example cells identified on separate imaging days.}}{40}{figure.caption.11}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Neuronal population dynamics and inactivation experiments.}}{41}{figure.caption.12}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Reorganization of activity within a trial across days.}}{45}{figure.caption.13}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Reorganization of information about trial-type across days}}{47}{figure.caption.14}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces GLM fitting procedure}}{50}{figure.caption.15}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Basis functions for encoding model.}}{51}{figure.caption.16}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces (Continued)\relax }}{52}{figure.caption.17}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Fitting activity-behavior relationships with a generalized linear model.}}{54}{figure.caption.18}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Fitting activity-behavior relationships with a generalized linear model.}}{56}{figure.caption.19}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Behavioral features were variable but had overlapping distributions across days}}{57}{figure.caption.20}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Model comparison across days.}}{57}{figure.caption.21}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Quantification of consistent, lost and gained activity-behavior relationships.}}{59}{figure.caption.22}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Distribution in the rate of change across cells in the population.}}{62}{figure.caption.23}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Behavioral change across days does not explain neuronal change.}}{63}{figure.caption.24}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Stable statistical features of population activity.}}{65}{figure.caption.25}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Decoding task information across days.}}{67}{figure.caption.26}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Decoding task information across days.}}{69}{figure.caption.27}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Neuronal activity during learning of a novel trial type}}{80}{figure.caption.26}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Differences in activity between trial types.}}{81}{figure.caption.27}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Neurons with novel cue related activity came from the pool of cells with recent familiar cue related activity.}}{83}{figure.caption.29}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Neuronal activity during learning of a novel trial type}}{84}{figure.caption.28}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Differences in activity between trial types.}}{86}{figure.caption.29}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Neurons with novel cue related activity came from the pool of cells with recent familiar cue related activity.}}{88}{figure.caption.31}
 \addvspace {10\p@ }

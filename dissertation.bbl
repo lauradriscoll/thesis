@@ -101,11 +101,11 @@ Chestek, C.~A., Batista, A.~P., Santhanam, G., Yu, B.~M., Afshar, A.,
 \newblock {\em The Journal of neuroscience : the official journal of the
   Society for Neuroscience}, 27(40), 10742--50.
 
-\bibitem[Constantinidis et~al., 2004]{Constantinidis2004}
-Constantinidis, C., Forest, W., Carolina, N., Inserm, U., \&
-  F{\'{e}}d{\'{e}}ratif, I. (2004).
-\newblock {The primate working memory networks EXPERIMENTAL INVESTIGATION OF}.
-\newblock {\em Behavioral Neuroscience}, 4(4), 444--465.
+\bibitem[Constantinidis \& Procyk, 2004]{Constantinidis2004}
+Constantinidis, C. \& Procyk, E. (2004).
+\newblock The primate working memory networks.
+\newblock {\em Cognitive, Affective, \& Behavioral Neuroscience}, 4(4),
+  444--465.
 
 \bibitem[Constantinidis \& Steinmetz, 1996]{Constantinidis1996}
 Constantinidis, C. \& Steinmetz, M.~A. (1996).
@@ -125,10 +125,10 @@ Cromer, J.~A., Roy, J.~E., \& Miller, E.~K. (2010).
 \newblock {\em Neuron}, 66(5), 796--807.
 
 \bibitem[Darian-Smith \& Gilbert, 1994]{Darian-Smith1994}
-Darian-Smith, C. \& Gilbert, C. (1994).
-\newblock {Axonal sprouting accompanies functional reorganization in adult cat
-  striate cortex.}
-\newblock {\em Nature}.
+Darian-Smith, C. \& Gilbert, C.~D. (1994).
+\newblock Axonal sprouting accompanies functional reorganization in adult cat
+  striate cortex.
+\newblock {\em Nature}, 368(6473), 737--740.
 
 \bibitem[Denk et~al., 1990]{Denk1990}
 Denk, W., Strickler, J.~H., \& Webb, W.~W. (1990).
@@ -152,11 +152,6 @@ Dorand, R.~D., Barkauskas, D.~S., Evans, T.~A., Petrosiute, A., \& Huang, A.~Y.
 \newblock {Comparison of intravital thinned skull and cranial window approaches
   to study CNS immunobiology in the mouse cortex.}
 \newblock {\em Intravital}, 3(2).
-
-\bibitem[Ebbinghaus, 1880]{Ebbinghaus1880}
-Ebbinghaus, H. (1880).
-\newblock {\em {Ueber das Gedachtnis}}.
-\newblock Passavia Universitatsverlag, 1983, volume 1 o edition.
 
 \bibitem[Foster et~al., 1993]{Foster1993}
 Foster, W.~R., Ungar, L.~H., \& Schwaber, J.~S. (1993).
@@ -203,16 +198,16 @@ Garrett, M.~E., Nauhaus, I., Marshel, J.~H., \& Callaway, E.~M. (2014).
 \newblock {Topography and Areal Organization of Mouse Visual Cortex}.
 \newblock {\em Journal of Neuroscience}, 34(37), 12587--12600.
 
-\bibitem[Gilbert \& Wiesel, 1992]{Gilbert1992}
-Gilbert, C. \& Wiesel, T. (1992).
-\newblock {Receptive field dynamics in adult primary visual cortex}.
-\newblock {\em Nature}.
-
 \bibitem[Gilbert \& Wiesel, 1990]{Gilbert1990}
 Gilbert, C.~D. \& Wiesel, T.~N. (1990).
 \newblock {The influence of contextual stimuli on the orientation selectivity
   of cells in primary visual cortex of the cat.}
 \newblock {\em Vision research}, 30(11), 1689--701.
+
+\bibitem[Gilbert \& Wiesel, 1992]{Gilbert1992}
+Gilbert, C.~D. \& Wiesel, T.~N. (1992).
+\newblock Receptive field dynamics in adult primary visual cortex.
+\newblock {\em Nature}, 356(6365), 150.
 
 \bibitem[Goard et~al., 2016]{Goard2016}
 Goard, M.~J., Pho, G.~N., Woodson, J., \& Sur, M. (2016).
@@ -248,15 +243,15 @@ Haaland, K.~Y., Harrington, D.~L., \& Knight, R.~T. (2000).
 \newblock {\em Brain: A journal of neurology}, 123 ( Pt 1(11), 2306--2313.
 
 \bibitem[Hamel et~al., 2015]{Hamel2015}
-Hamel, E., Grewe, B., Parker, J., \& Schnitzer, M. (2015).
+Hamel, E.~J., Grewe, B.~F., Parker, J.~G., \& Schnitzer, M.~J. (2015).
 \newblock {Cellular Level Brain Imaging in Behaving Mammals: An Engineering
   Approach}.
 \newblock {\em Neuron}, 86(1), 140--159.
 
 \bibitem[Hanus \& Schuman, 2013]{Hanus2013}
-Hanus, C. \& Schuman, E. (2013).
-\newblock {Proteostasis in complex dendrites}.
-\newblock {\em Nature Reviews Neuroscience}.
+Hanus, C. \& Schuman, E.~M. (2013).
+\newblock Proteostasis in complex dendrites.
+\newblock {\em Nature reviews. Neuroscience}, 14(9), 638.
 
 \bibitem[Harvey et~al., 2012]{Harvey:2012du}
 Harvey, C.~D., Coen, P., \& Tank, D.~W. (2012).
@@ -306,10 +301,10 @@ Kappel, D., Habenschuss, S., Legenstein, R., \& Maass, W. (2015).
 \newblock {\em PLoS computational biology}, 11(11), e1004485.
 
 \bibitem[Keck et~al., 2013]{Keck2013}
-Keck, T., Keller, G., Jacobsen, R., Eysel, U., Bonhoeffer, T., \&
+Keck, T., Keller, G.~B., Jacobsen, R.~I., Eysel, U.~T., Bonhoeffer, T., \&
   H{\"{u}}bener, M. (2013).
 \newblock {Synaptic Scaling and Homeostatic Plasticity in the Mouse Visual
-  Cortex In Vivo}.
+  Cortex In Vivo}.
 \newblock {\em Neuron}, 80(2), 327--334.
 
 \bibitem[Kentros et~al., 2004]{Kentros2004}
@@ -326,10 +321,11 @@ Komiyama, T., Sato, T.~R., O'Connor, D.~H., Zhang, Y.-X., Huber, D., Hooks,
   circuits of behaving mice.}
 \newblock {\em Nature}, 464(7292), 1182--1186.
 
-\bibitem[K{\"{u}}mmerer et~al., 2014]{Kummerer2014}
-K{\"{u}}mmerer, M., Theis, L., \& Bethge, M. (2014).
-\newblock {Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained
-  on ImageNet}.
+\bibitem[K{\"u}mmerer et~al., 2014]{Kummerer2014}
+K{\"u}mmerer, M., Theis, L., \& Bethge, M. (2014).
+\newblock Deep gaze i: Boosting saliency prediction with feature maps trained
+  on imagenet.
+\newblock {\em arXiv preprint arXiv:1411.1045}.
 
 \bibitem[LeCun et~al., 2015]{LeCun2015}
 LeCun, Y., Bengio, Y., \& Hinton, G. (2015).
@@ -351,9 +347,9 @@ Licata, A.~M., Kaufman, M.~T., Raposo, D., Ryan, M.~B., Sheppard, J.~P., \&
 
 \bibitem[Makino \& Komiyama, 2015]{Makino2015}
 Makino, H. \& Komiyama, T. (2015).
-\newblock {Learning enhances the relative impact of top-down processing in the
-  visual cortex}.
-\newblock {\em Nature neuroscience}.
+\newblock Learning enhances the relative impact of top-down processing in the
+  visual cortex.
+\newblock {\em Nature neuroscience}, 18(8), 1116--1122.
 
 \bibitem[Makino et~al., 2017]{Makino2017}
 Makino, H., Ren, C., Liu, H., Kim, A.~N., Kondapaneni, N., Liu, X., Kuzum, D.,
@@ -428,6 +424,13 @@ Morcos, A.~S. \& Harvey, C.~D. (2016).
   accumulation in cortex}.
 \newblock {\em Nature Neuroscience}, 19(12), 1672--1681.
 
+\bibitem[Nelson, 1985]{Ebbinghaus1880}
+Nelson, T.~O. (1985).
+\newblock Ebbinghaus's contribution to the measurement of retention: savings
+  during relearning.
+\newblock {\em Journal of Experimental Psychology: Learning, Memory, and
+  Cognition}, 11(3), 472.
+
 \bibitem[Nitz, 2006]{Nitz2006}
 Nitz, D.~A. (2006).
 \newblock {Tracking Route Progression in the Posterior Parietal Cortex}.
@@ -455,7 +458,7 @@ Oheim, M., Beaurepaire, E., Chaigneau, E., Mertz, J., \& Charpak, S. (2001).
 \newblock {\em Journal of neuroscience methods}, 111(1), 29--37.
 
 \bibitem[O'Leary et~al., 2014]{OLeary2014}
-O'Leary, T., Williams, A., Franci, A., \& Marder, E. (2014).
+O'Leary, T., Williams, A.~H., Franci, A., \& Marder, E. (2014).
 \newblock {Cell Types, Network Homeostasis, and Pathological Compensation from
   a Biologically Plausible Ion Channel Expression Model}.
 \newblock {\em Neuron}, 82(4), 809--821.
@@ -484,16 +487,23 @@ Peron, S., Chen, T.-W., \& Svoboda, K. (2015a).
 \newblock {\em Current Opinion in Neurobiology}, 32, 115--123.
 
 \bibitem[Peron et~al., 2015b]{Peron2015}
-Peron, S., Freeman, J., Iyer, V., Guo, C., \& Svoboda, K. (2015b).
-\newblock {A Cellular Resolution Map of Barrel Cortex Activity during Tactile
-  Behavior}.
-\newblock {\em Neuron}.
+Peron, S.~P., Freeman, J., Iyer, V., Guo, C., \& Svoboda, K. (2015b).
+\newblock A cellular resolution map of barrel cortex activity during tactile
+  behavior.
+\newblock {\em Neuron}, 86(3), 783--799.
 
 \bibitem[Peters et~al., 2014]{Peters2014}
 Peters, A.~J., Chen, S.~X., \& Komiyama, T. (2014).
 \newblock {Emergence of reproducible spatiotemporal activity during motor
   learning.}
 \newblock {\em Nature}, 510(7504), 263--7.
+
+\bibitem[Pnevmatikakis et~al., 2016]{pnevmatikakis2016simultaneous}
+Pnevmatikakis, E.~A., Soudry, D., Gao, Y., Machado, T.~A., Merel, J., Pfau, D.,
+  Reardon, T., Mu, Y., Lacefield, C., Yang, W., et~al. (2016).
+\newblock Simultaneous denoising, deconvolution, and demixing of calcium
+  imaging data.
+\newblock {\em Neuron}, 89(2), 285--299.
 
 \bibitem[Pologruto et~al., 2003]{Pologruto2003}
 Pologruto, T.~A., Sabatini, B.~L., \& Svoboda, K. (2003).
@@ -546,7 +556,7 @@ Robertson, D. \& Irvine, D. R.~F. (1989).
 
 \bibitem[Rokni et~al., 2007]{Rokni2007a}
 Rokni, U., Richardson, A.~G., Bizzi, E., \& Seung, H.~S. (2007).
-\newblock {Motor Learning with Unstable Neural Representations}.
+\newblock {Motor Learning with Unstable Neural Representations}.
 \newblock {\em Neuron}, 54(4), 653--666.
 
 \bibitem[Rose et~al., 2016]{Rose2016}
@@ -649,13 +659,6 @@ Veit, L., Pidpruzhnykova, G., \& Nieder, A. (2015).
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 112(49), 15208--13.
 
-\bibitem[Vogelstein et~al., 2010]{Vogelstein2010}
-Vogelstein, J.~T., Packer, A.~M., Machado, T.~a., Sippy, T., Babadi, B., Yuste,
-  R., \& Paninski, L. (2010).
-\newblock {Fast nonnegative deconvolution for spike train inference from
-  population calcium imaging.}
-\newblock {\em Journal of neurophysiology}, 104(6), 3691--3704.
-
 \bibitem[Wang \& Burkhalter, 2007]{Wang2007}
 Wang, Q. \& Burkhalter, A. (2007).
 \newblock {Area map of mouse visual cortex}.
@@ -688,8 +691,9 @@ Yaroslavsky, A.~N., Schulze, P.~C., Yaroslavsky, I.~V., Schober, R., Ulrich,
 
 \bibitem[Yu et~al., 2016]{Yu2016}
 Yu, Z., Kappel, D., Legenstein, R., Song, S., Chen, F., \& Maass, W. (2016).
-\newblock {CaMKII activation supports reward-based neural network optimization
-  through Hamiltonian sampling}.
+\newblock Camkii activation supports reward-based neural network optimization
+  through hamiltonian sampling.
+\newblock {\em arXiv preprint arXiv:1606.00157}.
 
 \bibitem[Yuste, 2015]{Yuste2015}
 Yuste, R. (2015).
